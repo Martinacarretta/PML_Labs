@@ -1,0 +1,17 @@
+{"time":"2024-11-24T17:54:59.25872475+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T17:54:59.25878689+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_175459-hd7719xm/logs/debug-core.log"}
+{"time":"2024-11-24T17:54:59.682464367+01:00","level":"INFO","msg":"created new stream","id":"hd7719xm"}
+{"time":"2024-11-24T17:54:59.682542796+01:00","level":"INFO","msg":"stream: started","id":"hd7719xm"}
+{"time":"2024-11-24T17:54:59.682607345+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hd7719xm"}}
+{"time":"2024-11-24T17:54:59.68267317+01:00","level":"INFO","msg":"sender: started","stream_id":"hd7719xm"}
+{"time":"2024-11-24T17:54:59.682728934+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hd7719xm"}}
+{"time":"2024-11-24T17:54:59.939615694+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T18:02:35.663693302+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T18:02:35.664479935+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T18:02:36.49289568+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T18:02:36.664897292+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.171761885}],"total_operations":1}}
+{"time":"2024-11-24T18:02:37.774496409+01:00","level":"INFO","msg":"stream: closing","id":"hd7719xm"}
+{"time":"2024-11-24T18:02:37.774590218+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hd7719xm"}}
+{"time":"2024-11-24T18:02:37.774639039+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hd7719xm"}}
+{"time":"2024-11-24T18:02:37.774718143+01:00","level":"INFO","msg":"sender: closed","stream_id":"hd7719xm"}
+{"time":"2024-11-24T18:02:37.774868492+01:00","level":"INFO","msg":"stream: closed","id":"hd7719xm"}

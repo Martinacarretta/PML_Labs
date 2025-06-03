@@ -1,0 +1,17 @@
+{"time":"2024-11-24T02:58:00.84140545+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T02:58:00.841427732+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_025800-kfcygazj/logs/debug-core.log"}
+{"time":"2024-11-24T02:58:01.102389644+01:00","level":"INFO","msg":"created new stream","id":"kfcygazj"}
+{"time":"2024-11-24T02:58:01.102593786+01:00","level":"INFO","msg":"stream: started","id":"kfcygazj"}
+{"time":"2024-11-24T02:58:01.102810489+01:00","level":"INFO","msg":"sender: started","stream_id":"kfcygazj"}
+{"time":"2024-11-24T02:58:01.102751156+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kfcygazj"}}
+{"time":"2024-11-24T02:58:01.102857604+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kfcygazj"}}
+{"time":"2024-11-24T02:58:01.388338165+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T02:58:01.681184841+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T02:58:01.681933327+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T02:58:02.72877842+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.617288696},{"desc":"uploading config.yaml","runtime_seconds":0.444780167,"progress":"743B/743B"},{"desc":"uploading output.log","runtime_seconds":0.444716039}],"total_operations":3}}
+{"time":"2024-11-24T02:58:03.975997698+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T02:58:05.193795667+01:00","level":"INFO","msg":"stream: closing","id":"kfcygazj"}
+{"time":"2024-11-24T02:58:05.193848347+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kfcygazj"}}
+{"time":"2024-11-24T02:58:05.193885817+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kfcygazj"}}
+{"time":"2024-11-24T02:58:05.193917679+01:00","level":"INFO","msg":"sender: closed","stream_id":"kfcygazj"}
+{"time":"2024-11-24T02:58:05.194015854+01:00","level":"INFO","msg":"stream: closed","id":"kfcygazj"}

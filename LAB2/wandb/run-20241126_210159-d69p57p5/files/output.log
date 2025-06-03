@@ -1,0 +1,5 @@
+>>> Training starts at  2024-11-26 21:02:00.804758
+Episode 50	Mean reward (last 100): 18.64
+Episode 100	Mean reward (last 100): 15.98
+Episode 150	Mean reward (last 100): 16.24
+Episode 200	Mean reward (last 100): 30.69

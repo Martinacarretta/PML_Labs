@@ -1,0 +1,17 @@
+{"time":"2024-11-20T02:11:28.873264066+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:11:28.873304111+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_021126-fkdvj2gj/logs/debug-core.log"}
+{"time":"2024-11-20T02:11:29.209422348+01:00","level":"INFO","msg":"created new stream","id":"fkdvj2gj"}
+{"time":"2024-11-20T02:11:29.209581657+01:00","level":"INFO","msg":"stream: started","id":"fkdvj2gj"}
+{"time":"2024-11-20T02:11:29.209694595+01:00","level":"INFO","msg":"sender: started","stream_id":"fkdvj2gj"}
+{"time":"2024-11-20T02:11:29.209647213+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fkdvj2gj"}}
+{"time":"2024-11-20T02:11:29.209699927+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fkdvj2gj"}}
+{"time":"2024-11-20T02:11:30.223941235+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:11:59.595051807+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:11:59.596380065+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:12:00.424991246+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T02:12:00.596431038+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.169754368}],"total_operations":1}}
+{"time":"2024-11-20T02:12:01.847120583+01:00","level":"INFO","msg":"stream: closing","id":"fkdvj2gj"}
+{"time":"2024-11-20T02:12:01.847266603+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fkdvj2gj"}}
+{"time":"2024-11-20T02:12:01.847317084+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fkdvj2gj"}}
+{"time":"2024-11-20T02:12:01.847385397+01:00","level":"INFO","msg":"sender: closed","stream_id":"fkdvj2gj"}
+{"time":"2024-11-20T02:12:01.847489025+01:00","level":"INFO","msg":"stream: closed","id":"fkdvj2gj"}

@@ -1,0 +1,21 @@
+{"time":"2024-11-22T01:56:22.738060743+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-22T01:56:22.738095319+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241122_015622-irdgnrtz/logs/debug-core.log"}
+{"time":"2024-11-22T01:56:23.131790624+01:00","level":"INFO","msg":"created new stream","id":"irdgnrtz"}
+{"time":"2024-11-22T01:56:23.132240972+01:00","level":"INFO","msg":"stream: started","id":"irdgnrtz"}
+{"time":"2024-11-22T01:56:23.132752171+01:00","level":"INFO","msg":"sender: started","stream_id":"irdgnrtz"}
+{"time":"2024-11-22T01:56:23.132608737+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"irdgnrtz"}}
+{"time":"2024-11-22T01:56:23.132839943+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"irdgnrtz"}}
+{"time":"2024-11-22T01:56:23.444406242+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-22T01:56:23.784828383+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-22T01:56:23.80358382+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-22T01:57:42.65331913+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-22T01:57:42.666977916+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-22T01:57:42.67347324+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-22T01:57:42.674572051+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-22T01:57:43.675099723+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.60303645}],"total_operations":1}}
+{"time":"2024-11-22T01:57:44.986339719+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-22T01:57:46.270179215+01:00","level":"INFO","msg":"stream: closing","id":"irdgnrtz"}
+{"time":"2024-11-22T01:57:46.270227219+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"irdgnrtz"}}
+{"time":"2024-11-22T01:57:46.270259111+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"irdgnrtz"}}
+{"time":"2024-11-22T01:57:46.270311075+01:00","level":"INFO","msg":"sender: closed","stream_id":"irdgnrtz"}
+{"time":"2024-11-22T01:57:46.270346347+01:00","level":"INFO","msg":"stream: closed","id":"irdgnrtz"}

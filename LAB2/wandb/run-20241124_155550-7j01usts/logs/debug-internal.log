@@ -1,0 +1,17 @@
+{"time":"2024-11-24T15:55:50.080982879+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T15:55:50.081443176+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_155550-7j01usts/logs/debug-core.log"}
+{"time":"2024-11-24T15:55:50.438472379+01:00","level":"INFO","msg":"created new stream","id":"7j01usts"}
+{"time":"2024-11-24T15:55:50.438588303+01:00","level":"INFO","msg":"stream: started","id":"7j01usts"}
+{"time":"2024-11-24T15:55:50.438706986+01:00","level":"INFO","msg":"sender: started","stream_id":"7j01usts"}
+{"time":"2024-11-24T15:55:50.438707823+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7j01usts"}}
+{"time":"2024-11-24T15:55:50.438668398+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7j01usts"}}
+{"time":"2024-11-24T15:55:50.757480198+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T15:56:32.792347963+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T15:56:32.792912827+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T15:56:33.793814309+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.837906241,"subtasks":[{"desc":"requirements.frozen.txt","runtime_seconds":0.262975755,"progress":"4.5KB/4.5KB"},{"desc":"wandb-job.json","runtime_seconds":0.262956732,"progress":"840B/840B"}]}],"total_operations":1}}
+{"time":"2024-11-24T15:56:35.093931081+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T15:56:36.442228907+01:00","level":"INFO","msg":"stream: closing","id":"7j01usts"}
+{"time":"2024-11-24T15:56:36.442298067+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"7j01usts"}}
+{"time":"2024-11-24T15:56:36.442315061+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7j01usts"}}
+{"time":"2024-11-24T15:56:36.442397746+01:00","level":"INFO","msg":"sender: closed","stream_id":"7j01usts"}
+{"time":"2024-11-24T15:56:36.442473505+01:00","level":"INFO","msg":"stream: closed","id":"7j01usts"}

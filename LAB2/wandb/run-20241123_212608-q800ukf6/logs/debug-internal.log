@@ -1,0 +1,17 @@
+{"time":"2024-11-23T21:26:08.795689773+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T21:26:08.795754559+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_212608-q800ukf6/logs/debug-core.log"}
+{"time":"2024-11-23T21:26:09.075938716+01:00","level":"INFO","msg":"created new stream","id":"q800ukf6"}
+{"time":"2024-11-23T21:26:09.076005655+01:00","level":"INFO","msg":"stream: started","id":"q800ukf6"}
+{"time":"2024-11-23T21:26:09.076082091+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"q800ukf6"}}
+{"time":"2024-11-23T21:26:09.076137497+01:00","level":"INFO","msg":"sender: started","stream_id":"q800ukf6"}
+{"time":"2024-11-23T21:26:09.07619184+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"q800ukf6"}}
+{"time":"2024-11-23T21:26:09.345431723+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T21:30:43.564259057+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:30:43.565854493+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:30:44.416837555+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:30:44.566871487+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.14113894}],"total_operations":1}}
+{"time":"2024-11-23T21:30:45.868708543+01:00","level":"INFO","msg":"stream: closing","id":"q800ukf6"}
+{"time":"2024-11-23T21:30:45.868944522+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"q800ukf6"}}
+{"time":"2024-11-23T21:30:45.869277181+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"q800ukf6"}}
+{"time":"2024-11-23T21:30:45.869486697+01:00","level":"INFO","msg":"sender: closed","stream_id":"q800ukf6"}
+{"time":"2024-11-23T21:30:45.869928337+01:00","level":"INFO","msg":"stream: closed","id":"q800ukf6"}

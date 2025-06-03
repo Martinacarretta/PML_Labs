@@ -1,0 +1,6 @@
+>>> Training starts at  2024-11-20 01:55:09.302674
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f4112002f80>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7f4112000a30, raw_cell="net = DQN (env, learning_rate=1e-3, device='cpu')
+.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell://wsl%2Bubuntu-22.04/home/martina/codi2/3rd%20year/Paradigms_ML/practical%20LAB%202/PRA2_LunarLander.ipynb#X40sdnNjb2RlLXJlbW90ZQ%3D%3D>,),kwargs {}:
+Filling replay buffer...
+Training...
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:21:25.732881961+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:21:25.73290687+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_162125-tcmo44kl/logs/debug-core.log"}
+{"time":"2024-11-25T16:21:26.026382141+01:00","level":"INFO","msg":"created new stream","id":"tcmo44kl"}
+{"time":"2024-11-25T16:21:26.026445664+01:00","level":"INFO","msg":"stream: started","id":"tcmo44kl"}
+{"time":"2024-11-25T16:21:26.02650742+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tcmo44kl"}}
+{"time":"2024-11-25T16:21:26.026557877+01:00","level":"INFO","msg":"sender: started","stream_id":"tcmo44kl"}
+{"time":"2024-11-25T16:21:26.026530804+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tcmo44kl"}}
+{"time":"2024-11-25T16:21:26.34282902+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:22:30.305750168+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:22:30.306859959+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:22:31.172043764+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:22:31.307056718+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.134713615}],"total_operations":1}}
+{"time":"2024-11-25T16:22:32.520304687+01:00","level":"INFO","msg":"stream: closing","id":"tcmo44kl"}
+{"time":"2024-11-25T16:22:32.520389036+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tcmo44kl"}}
+{"time":"2024-11-25T16:22:32.520436251+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tcmo44kl"}}
+{"time":"2024-11-25T16:22:32.52048855+01:00","level":"INFO","msg":"sender: closed","stream_id":"tcmo44kl"}
+{"time":"2024-11-25T16:22:32.52068757+01:00","level":"INFO","msg":"stream: closed","id":"tcmo44kl"}

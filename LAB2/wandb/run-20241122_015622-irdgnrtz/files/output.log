@@ -1,0 +1,23 @@
+>>> Training starts at  2024-11-22 01:56:23.775215
+/tmp/ipykernel_405/3517764488.py:30: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  state_batch = torch.tensor(states, dtype=torch.float32)
+Trajectory 50	Average Score: 132.32
+Trajectory 100	Average Score: 178.50
+Trajectory 150	Average Score: 167.42
+Trajectory 200	Average Score: 134.38
+Trajectory 250	Average Score: 231.44
+Trajectory 300	Average Score: 222.50
+Trajectory 350	Average Score: 123.58
+Trajectory 400	Average Score: 278.52
+Trajectory 450	Average Score: 321.10
+Trajectory 500	Average Score: 369.44
+Trajectory 550	Average Score: 392.86
+Trajectory 600	Average Score: 449.26
+Trajectory 650	Average Score: 365.46
+Trajectory 700	Average Score: 387.82
+Trajectory 750	Average Score: 168.02
+Trajectory 800	Average Score: 341.08
+Trajectory 850	Average Score: 324.48
+Trajectory 900	Average Score: 289.82
+Trajectory 950	Average Score: 417.66
+>>> Training completed at  2024-11-22 01:57:42.667637

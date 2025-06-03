@@ -1,0 +1,17 @@
+{"time":"2024-11-24T01:36:55.194329335+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T01:36:55.194361278+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_013655-cyy31mg7/logs/debug-core.log"}
+{"time":"2024-11-24T01:36:55.528121804+01:00","level":"INFO","msg":"created new stream","id":"cyy31mg7"}
+{"time":"2024-11-24T01:36:55.528169208+01:00","level":"INFO","msg":"stream: started","id":"cyy31mg7"}
+{"time":"2024-11-24T01:36:55.528231419+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cyy31mg7"}}
+{"time":"2024-11-24T01:36:55.528277481+01:00","level":"INFO","msg":"sender: started","stream_id":"cyy31mg7"}
+{"time":"2024-11-24T01:36:55.528316282+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cyy31mg7"}}
+{"time":"2024-11-24T01:36:55.812200198+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T01:47:30.825492716+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T01:47:30.830913853+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T01:47:31.838221092+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.51879043,"progress":"634B/634B"},{"desc":"uploading output.log","runtime_seconds":0.518837607,"progress":"675B/675B"}],"total_operations":2}}
+{"time":"2024-11-24T01:47:31.949687577+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T01:47:33.487500176+01:00","level":"INFO","msg":"stream: closing","id":"cyy31mg7"}
+{"time":"2024-11-24T01:47:33.487562045+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"cyy31mg7"}}
+{"time":"2024-11-24T01:47:33.487661403+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cyy31mg7"}}
+{"time":"2024-11-24T01:47:33.487723979+01:00","level":"INFO","msg":"sender: closed","stream_id":"cyy31mg7"}
+{"time":"2024-11-24T01:47:33.487915546+01:00","level":"INFO","msg":"stream: closed","id":"cyy31mg7"}

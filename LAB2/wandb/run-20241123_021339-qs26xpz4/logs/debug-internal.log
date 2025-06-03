@@ -1,0 +1,18 @@
+{"time":"2024-11-23T02:13:40.006556473+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T02:13:40.006603246+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_021339-qs26xpz4/logs/debug-core.log"}
+{"time":"2024-11-23T02:13:40.317773802+01:00","level":"INFO","msg":"created new stream","id":"qs26xpz4"}
+{"time":"2024-11-23T02:13:40.317857898+01:00","level":"INFO","msg":"stream: started","id":"qs26xpz4"}
+{"time":"2024-11-23T02:13:40.317928409+01:00","level":"INFO","msg":"sender: started","stream_id":"qs26xpz4"}
+{"time":"2024-11-23T02:13:40.31793579+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qs26xpz4"}}
+{"time":"2024-11-23T02:13:40.317969366+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qs26xpz4"}}
+{"time":"2024-11-23T02:13:40.59708211+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T21:13:13.328830899+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.19.182.246:37020->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-23T21:17:48.329908825+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:17:48.375541941+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:17:49.284848882+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:17:49.34100078+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.053349618}],"total_operations":1}}
+{"time":"2024-11-23T21:17:51.090523763+01:00","level":"INFO","msg":"stream: closing","id":"qs26xpz4"}
+{"time":"2024-11-23T21:17:51.091186992+01:00","level":"INFO","msg":"sender: closed","stream_id":"qs26xpz4"}
+{"time":"2024-11-23T21:17:51.090966909+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qs26xpz4"}}
+{"time":"2024-11-23T21:17:51.091125948+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qs26xpz4"}}
+{"time":"2024-11-23T21:17:51.092209227+01:00","level":"INFO","msg":"stream: closed","id":"qs26xpz4"}

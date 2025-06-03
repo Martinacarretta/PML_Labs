@@ -1,0 +1,22 @@
+{"time":"2024-11-21T20:31:53.584362668+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-21T20:31:53.584463941+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241121_203153-fkmthghd/logs/debug-core.log"}
+{"time":"2024-11-21T20:31:53.985257635+01:00","level":"INFO","msg":"created new stream","id":"fkmthghd"}
+{"time":"2024-11-21T20:31:53.985331768+01:00","level":"INFO","msg":"stream: started","id":"fkmthghd"}
+{"time":"2024-11-21T20:31:53.985375015+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fkmthghd"}}
+{"time":"2024-11-21T20:31:53.985471938+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fkmthghd"}}
+{"time":"2024-11-21T20:31:53.985536248+01:00","level":"INFO","msg":"sender: started","stream_id":"fkmthghd"}
+{"time":"2024-11-21T20:31:54.288599527+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-21T20:31:54.646676894+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-21T20:31:56.907067437+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-21T23:02:58.074682551+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-22T01:15:09.403503112+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-22T01:15:13.231199289+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-22T01:15:13.270065971+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-22T01:15:13.290903292+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-22T01:15:14.273613765+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.673097488}],"total_operations":1}}
+{"time":"2024-11-22T01:15:16.373736517+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-22T01:15:17.67352241+01:00","level":"INFO","msg":"stream: closing","id":"fkmthghd"}
+{"time":"2024-11-22T01:15:17.67365935+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fkmthghd"}}
+{"time":"2024-11-22T01:15:17.673749829+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fkmthghd"}}
+{"time":"2024-11-22T01:15:17.673778756+01:00","level":"INFO","msg":"sender: closed","stream_id":"fkmthghd"}
+{"time":"2024-11-22T01:15:17.67383924+01:00","level":"INFO","msg":"stream: closed","id":"fkmthghd"}

@@ -1,0 +1,11 @@
+Running with parameters: LR=0.0001, MEMORY_SIZE=5000, BATCH_SIZE=32, EPSILON_DECAY=0.99, GAMMA=0.9
+>>> Training starts at  2024-11-24 01:21:37.198819
+Filling replay buffer...
+Training...
+Episode 500 Mean Rewards -318.96 Epsilon 0.01		2118606165716			
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3904: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/_methods.py:147: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Episode limit reached.
+>>> Training completed at  2024-11-24 01:23:06.711537

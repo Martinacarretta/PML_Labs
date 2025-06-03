@@ -1,0 +1,17 @@
+{"time":"2024-11-24T19:47:57.421444191+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T19:47:57.421486612+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_194757-lvpmn5hq/logs/debug-core.log"}
+{"time":"2024-11-24T19:47:57.652300515+01:00","level":"INFO","msg":"created new stream","id":"lvpmn5hq"}
+{"time":"2024-11-24T19:47:57.652346608+01:00","level":"INFO","msg":"stream: started","id":"lvpmn5hq"}
+{"time":"2024-11-24T19:47:57.652385846+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lvpmn5hq"}}
+{"time":"2024-11-24T19:47:57.652436736+01:00","level":"INFO","msg":"sender: started","stream_id":"lvpmn5hq"}
+{"time":"2024-11-24T19:47:57.652467415+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lvpmn5hq"}}
+{"time":"2024-11-24T19:47:57.896515802+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T19:58:36.171729687+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T19:58:36.178751636+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T19:58:36.990491568+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T19:58:37.173479902+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.182588856}],"total_operations":1}}
+{"time":"2024-11-24T19:58:38.265277583+01:00","level":"INFO","msg":"stream: closing","id":"lvpmn5hq"}
+{"time":"2024-11-24T19:58:38.265368015+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"lvpmn5hq"}}
+{"time":"2024-11-24T19:58:38.265651732+01:00","level":"INFO","msg":"sender: closed","stream_id":"lvpmn5hq"}
+{"time":"2024-11-24T19:58:38.265582576+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lvpmn5hq"}}
+{"time":"2024-11-24T19:58:38.266012362+01:00","level":"INFO","msg":"stream: closed","id":"lvpmn5hq"}

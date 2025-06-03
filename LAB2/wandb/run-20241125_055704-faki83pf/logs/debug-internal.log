@@ -1,0 +1,17 @@
+{"time":"2024-11-25T05:57:04.267300187+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T05:57:04.267360899+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_055704-faki83pf/logs/debug-core.log"}
+{"time":"2024-11-25T05:57:04.450405026+01:00","level":"INFO","msg":"created new stream","id":"faki83pf"}
+{"time":"2024-11-25T05:57:04.450465663+01:00","level":"INFO","msg":"stream: started","id":"faki83pf"}
+{"time":"2024-11-25T05:57:04.450526951+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"faki83pf"}}
+{"time":"2024-11-25T05:57:04.450593012+01:00","level":"INFO","msg":"sender: started","stream_id":"faki83pf"}
+{"time":"2024-11-25T05:57:04.450637545+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"faki83pf"}}
+{"time":"2024-11-25T05:57:04.791448037+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T06:17:05.811326677+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T06:17:05.812077003+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T06:17:06.81283772+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.454025973,"progress":"578B/578B"},{"desc":"uploading output.log","runtime_seconds":0.454009827,"progress":"328B/328B"}],"total_operations":2}}
+{"time":"2024-11-25T06:17:06.950358633+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T06:17:08.233526565+01:00","level":"INFO","msg":"stream: closing","id":"faki83pf"}
+{"time":"2024-11-25T06:17:08.23355984+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"faki83pf"}}
+{"time":"2024-11-25T06:17:08.233581281+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"faki83pf"}}
+{"time":"2024-11-25T06:17:08.233599337+01:00","level":"INFO","msg":"sender: closed","stream_id":"faki83pf"}
+{"time":"2024-11-25T06:17:08.233641923+01:00","level":"INFO","msg":"stream: closed","id":"faki83pf"}

@@ -1,0 +1,21 @@
+{"time":"2024-11-20T00:06:53.998443518+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T00:06:53.998513967+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_000653-mf99wlqv/logs/debug-core.log"}
+{"time":"2024-11-20T00:06:54.245667895+01:00","level":"INFO","msg":"created new stream","id":"mf99wlqv"}
+{"time":"2024-11-20T00:06:54.245736048+01:00","level":"INFO","msg":"stream: started","id":"mf99wlqv"}
+{"time":"2024-11-20T00:06:54.24577529+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mf99wlqv"}}
+{"time":"2024-11-20T00:06:54.245864752+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mf99wlqv"}}
+{"time":"2024-11-20T00:06:54.245933581+01:00","level":"INFO","msg":"sender: started","stream_id":"mf99wlqv"}
+{"time":"2024-11-20T00:06:54.606866551+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T00:06:55.12664489+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T00:06:57.120591175+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T00:06:57.437398547+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T00:07:15.217740998+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T00:07:15.241801915+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T00:07:15.243358093+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T00:07:15.91406229+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T00:07:16.181080632+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-20T00:07:17.200617539+01:00","level":"INFO","msg":"stream: closing","id":"mf99wlqv"}
+{"time":"2024-11-20T00:07:17.200649533+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mf99wlqv"}}
+{"time":"2024-11-20T00:07:17.200667783+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mf99wlqv"}}
+{"time":"2024-11-20T00:07:17.200767973+01:00","level":"INFO","msg":"sender: closed","stream_id":"mf99wlqv"}
+{"time":"2024-11-20T00:07:17.200773771+01:00","level":"INFO","msg":"stream: closed","id":"mf99wlqv"}

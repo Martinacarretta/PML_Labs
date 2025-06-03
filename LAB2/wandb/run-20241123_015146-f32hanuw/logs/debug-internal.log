@@ -1,0 +1,17 @@
+{"time":"2024-11-23T01:51:46.389594656+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T01:51:46.389616229+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_015146-f32hanuw/logs/debug-core.log"}
+{"time":"2024-11-23T01:51:46.612855465+01:00","level":"INFO","msg":"created new stream","id":"f32hanuw"}
+{"time":"2024-11-23T01:51:46.612926604+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f32hanuw"}}
+{"time":"2024-11-23T01:51:46.612958893+01:00","level":"INFO","msg":"stream: started","id":"f32hanuw"}
+{"time":"2024-11-23T01:51:46.612962776+01:00","level":"INFO","msg":"sender: started","stream_id":"f32hanuw"}
+{"time":"2024-11-23T01:51:46.612979121+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f32hanuw"}}
+{"time":"2024-11-23T01:51:46.96888966+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T01:54:27.263585603+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T01:54:27.264270997+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T01:54:28.028966665+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T01:54:28.265334126+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.235829627}],"total_operations":1}}
+{"time":"2024-11-23T01:54:29.588025956+01:00","level":"INFO","msg":"stream: closing","id":"f32hanuw"}
+{"time":"2024-11-23T01:54:29.588110151+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"f32hanuw"}}
+{"time":"2024-11-23T01:54:29.588158239+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f32hanuw"}}
+{"time":"2024-11-23T01:54:29.588210565+01:00","level":"INFO","msg":"sender: closed","stream_id":"f32hanuw"}
+{"time":"2024-11-23T01:54:29.58834988+01:00","level":"INFO","msg":"stream: closed","id":"f32hanuw"}

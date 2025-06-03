@@ -1,0 +1,17 @@
+{"time":"2024-11-25T13:23:47.705230515+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T13:23:47.705528853+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_132347-706casra/logs/debug-core.log"}
+{"time":"2024-11-25T13:23:48.144300365+01:00","level":"INFO","msg":"created new stream","id":"706casra"}
+{"time":"2024-11-25T13:23:48.144396967+01:00","level":"INFO","msg":"stream: started","id":"706casra"}
+{"time":"2024-11-25T13:23:48.144474907+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"706casra"}}
+{"time":"2024-11-25T13:23:48.1445902+01:00","level":"INFO","msg":"sender: started","stream_id":"706casra"}
+{"time":"2024-11-25T13:23:48.144683021+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"706casra"}}
+{"time":"2024-11-25T13:23:48.445560467+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T13:40:26.026243682+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T13:40:26.030650707+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T13:40:26.927364761+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T13:40:27.029223145+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.101259389}],"total_operations":1}}
+{"time":"2024-11-25T13:40:28.320216309+01:00","level":"INFO","msg":"stream: closing","id":"706casra"}
+{"time":"2024-11-25T13:40:28.320288152+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"706casra"}}
+{"time":"2024-11-25T13:40:28.32038445+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"706casra"}}
+{"time":"2024-11-25T13:40:28.32045845+01:00","level":"INFO","msg":"sender: closed","stream_id":"706casra"}
+{"time":"2024-11-25T13:40:28.320616836+01:00","level":"INFO","msg":"stream: closed","id":"706casra"}

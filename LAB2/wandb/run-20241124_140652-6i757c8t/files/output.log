@@ -1,0 +1,6 @@
+Running with parameters: LR=0.0001, MEMORY_SIZE=5000, BATCH_SIZE=32, EPSILON_DECAY=0.99, GAMMA=0.9
+>>> Training starts at  2024-11-24 14:06:55.644845
+Filling replay buffer...
+Training...
+Episode 730 Mean Rewards -99.94 Epsilon 0.01			118606165716				
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

@@ -1,0 +1,21 @@
+{"time":"2024-11-26T21:14:05.407550417+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-26T21:14:05.407648723+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241126_211405-t4xtbplg/logs/debug-core.log"}
+{"time":"2024-11-26T21:14:05.863268553+01:00","level":"INFO","msg":"created new stream","id":"t4xtbplg"}
+{"time":"2024-11-26T21:14:05.863877361+01:00","level":"INFO","msg":"stream: started","id":"t4xtbplg"}
+{"time":"2024-11-26T21:14:05.864459691+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"t4xtbplg"}}
+{"time":"2024-11-26T21:14:05.866618735+01:00","level":"INFO","msg":"sender: started","stream_id":"t4xtbplg"}
+{"time":"2024-11-26T21:14:05.866634689+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"t4xtbplg"}}
+{"time":"2024-11-26T21:14:06.563669343+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T21:14:06.993927077+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:14:10.595674602+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:25:33.145697902+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:25:38.510545142+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:25:38.541834384+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T21:25:38.54941384+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T21:25:39.542259636+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-26T21:25:39.560580743+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T21:25:40.944525449+01:00","level":"INFO","msg":"stream: closing","id":"t4xtbplg"}
+{"time":"2024-11-26T21:25:40.944562972+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"t4xtbplg"}}
+{"time":"2024-11-26T21:25:40.944777514+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"t4xtbplg"}}
+{"time":"2024-11-26T21:25:40.94482853+01:00","level":"INFO","msg":"sender: closed","stream_id":"t4xtbplg"}
+{"time":"2024-11-26T21:25:40.94493845+01:00","level":"INFO","msg":"stream: closed","id":"t4xtbplg"}

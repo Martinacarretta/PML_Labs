@@ -1,0 +1,21 @@
+>>> Training starts at  2024-11-24 02:22:56.148794
+Trajectory 50	Mean reward (last 100): 103.90
+Trajectory 100	Mean reward (last 100): 116.07
+Trajectory 150	Mean reward (last 100): 114.60
+Trajectory 200	Mean reward (last 100): 85.35
+Trajectory 250	Mean reward (last 100): 104.50
+Trajectory 300	Mean reward (last 100): 130.99
+Trajectory 350	Mean reward (last 100): 95.98
+Trajectory 400	Mean reward (last 100): 79.91
+Trajectory 450	Mean reward (last 100): 110.72
+Trajectory 500	Mean reward (last 100): 129.84
+Trajectory 550	Mean reward (last 100): 118.07
+Trajectory 600	Mean reward (last 100): 64.94
+Trajectory 650	Mean reward (last 100): 30.96
+Trajectory 700	Mean reward (last 100): 71.43
+Trajectory 750	Mean reward (last 100): 95.58
+Trajectory 800	Mean reward (last 100): 76.04
+Trajectory 850	Mean reward (last 100): 109.55
+Trajectory 900	Mean reward (last 100): 126.46
+Trajectory 950	Mean reward (last 100): 69.58
+>>> Training completed at  2024-11-24 02:31:31.588203

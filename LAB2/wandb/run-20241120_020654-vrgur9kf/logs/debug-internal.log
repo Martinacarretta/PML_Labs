@@ -1,0 +1,27 @@
+{"time":"2024-11-20T02:06:54.466183988+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:06:54.466237998+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_020654-vrgur9kf/logs/debug-core.log"}
+{"time":"2024-11-20T02:06:54.932022647+01:00","level":"INFO","msg":"created new stream","id":"vrgur9kf"}
+{"time":"2024-11-20T02:06:54.932728125+01:00","level":"INFO","msg":"stream: started","id":"vrgur9kf"}
+{"time":"2024-11-20T02:06:54.932988153+01:00","level":"INFO","msg":"sender: started","stream_id":"vrgur9kf"}
+{"time":"2024-11-20T02:06:54.932845204+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vrgur9kf"}}
+{"time":"2024-11-20T02:06:54.933341395+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vrgur9kf"}}
+{"time":"2024-11-20T02:06:55.386802991+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:06:56.073797331+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:06:57.76247603+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:06:57.877839085+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:07:31.543808327+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:07:31.56190929+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:07:32.758639963+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:07:32.76104401+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:07:33.203076927+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:07:33.214739927+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:07:33.590975527+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:07:33.6228353+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:07:33.624147153+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:07:34.623869552+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.354334545},{"desc":"uploading config.yaml","runtime_seconds":0.165944283,"progress":"461B/461B"},{"desc":"uploading output.log","runtime_seconds":0.165926067,"progress":"169B/169B"}],"total_operations":3}}
+{"time":"2024-11-20T02:07:34.812092469+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T02:07:36.091648531+01:00","level":"INFO","msg":"stream: closing","id":"vrgur9kf"}
+{"time":"2024-11-20T02:07:36.091815677+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vrgur9kf"}}
+{"time":"2024-11-20T02:07:36.091876131+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vrgur9kf"}}
+{"time":"2024-11-20T02:07:36.091953525+01:00","level":"INFO","msg":"sender: closed","stream_id":"vrgur9kf"}
+{"time":"2024-11-20T02:07:36.092037583+01:00","level":"INFO","msg":"stream: closed","id":"vrgur9kf"}

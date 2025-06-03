@@ -1,0 +1,61 @@
+{"time":"2024-11-16T16:04:13.27321318+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-16T16:04:13.273494738+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_160413-wp4zdk20/logs/debug-core.log"}
+{"time":"2024-11-16T16:04:13.743174493+01:00","level":"INFO","msg":"created new stream","id":"wp4zdk20"}
+{"time":"2024-11-16T16:04:13.745333807+01:00","level":"INFO","msg":"stream: started","id":"wp4zdk20"}
+{"time":"2024-11-16T16:04:13.745955968+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wp4zdk20"}}
+{"time":"2024-11-16T16:04:13.745701907+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wp4zdk20"}}
+{"time":"2024-11-16T16:04:13.746217252+01:00","level":"INFO","msg":"sender: started","stream_id":"wp4zdk20"}
+{"time":"2024-11-16T16:04:14.225097173+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-16T16:04:14.826474413+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:04:15.987667126+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:04:16.000213895+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:04:17.483321324+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:04:17.495031158+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:04:19.73941405+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:52.999998+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.142610792+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.198776277+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.285045585+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.293339373+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.327275591+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.334707742+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.347826292+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.361627168+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.372225333+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.37967819+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.391244413+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.406358717+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.420943966+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.431594968+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.447920659+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.458254364+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.485898612+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.503948349+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.517990302+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.528865829+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.553494787+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.565472466+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.579996443+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.595104028+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.613072551+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.629932078+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.645264629+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.65337283+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.679620401+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.693982994+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.713309077+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.728822799+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.742935775+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.757033327+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:53.770052524+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:53.786720438+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T16:19:55.643446312+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T16:19:55.794985603+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-16T16:19:55.811546306+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-16T16:19:56.800527429+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.690168059},{"desc":"uploading output.log","runtime_seconds":0.506665113,"progress":"729.4KB/729.4KB"}],"total_operations":2}}
+{"time":"2024-11-16T16:19:58.624198116+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-16T16:20:00.076911916+01:00","level":"INFO","msg":"stream: closing","id":"wp4zdk20"}
+{"time":"2024-11-16T16:20:00.077020205+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wp4zdk20"}}
+{"time":"2024-11-16T16:20:00.077309409+01:00","level":"INFO","msg":"sender: closed","stream_id":"wp4zdk20"}
+{"time":"2024-11-16T16:20:00.077265008+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wp4zdk20"}}
+{"time":"2024-11-16T16:20:00.077757447+01:00","level":"INFO","msg":"stream: closed","id":"wp4zdk20"}

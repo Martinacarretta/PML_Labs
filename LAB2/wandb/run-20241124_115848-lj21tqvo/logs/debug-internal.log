@@ -1,0 +1,17 @@
+{"time":"2024-11-24T11:58:48.269792955+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T11:58:48.269836623+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_115848-lj21tqvo/logs/debug-core.log"}
+{"time":"2024-11-24T11:58:48.674039349+01:00","level":"INFO","msg":"created new stream","id":"lj21tqvo"}
+{"time":"2024-11-24T11:58:48.674112169+01:00","level":"INFO","msg":"stream: started","id":"lj21tqvo"}
+{"time":"2024-11-24T11:58:48.674292852+01:00","level":"INFO","msg":"sender: started","stream_id":"lj21tqvo"}
+{"time":"2024-11-24T11:58:48.67428641+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lj21tqvo"}}
+{"time":"2024-11-24T11:58:48.674321008+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lj21tqvo"}}
+{"time":"2024-11-24T11:58:49.001867286+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T12:01:55.565973867+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T12:01:55.566929208+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T12:01:56.567575546+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.373439672},{"desc":"uploading config.yaml","runtime_seconds":0.194355144,"progress":"634B/634B"},{"desc":"uploading output.log","runtime_seconds":0.194318866,"progress":"223B/223B"}],"total_operations":3}}
+{"time":"2024-11-24T12:01:56.70280299+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T12:01:58.015671344+01:00","level":"INFO","msg":"stream: closing","id":"lj21tqvo"}
+{"time":"2024-11-24T12:01:58.01582533+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"lj21tqvo"}}
+{"time":"2024-11-24T12:01:58.015930884+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lj21tqvo"}}
+{"time":"2024-11-24T12:01:58.015964645+01:00","level":"INFO","msg":"sender: closed","stream_id":"lj21tqvo"}
+{"time":"2024-11-24T12:01:58.016143423+01:00","level":"INFO","msg":"stream: closed","id":"lj21tqvo"}

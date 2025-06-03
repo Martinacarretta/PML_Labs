@@ -1,0 +1,8 @@
+>>> Training starts at  2024-11-26 20:56:41.567450
+Environment solved in 0 episodes!
+Environment solved in 0 episodes!
+Environment solved in 0 episodes!
+Environment solved in 2 episodes!
+Environment solved in 2 episodes!
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 0 that is less than the current step 1. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Environment solved in 0 episodes!

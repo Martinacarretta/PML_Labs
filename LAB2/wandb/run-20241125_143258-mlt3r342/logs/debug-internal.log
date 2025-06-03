@@ -1,0 +1,17 @@
+{"time":"2024-11-25T14:32:58.208361658+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T14:32:58.208396718+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_143258-mlt3r342/logs/debug-core.log"}
+{"time":"2024-11-25T14:32:58.458417339+01:00","level":"INFO","msg":"created new stream","id":"mlt3r342"}
+{"time":"2024-11-25T14:32:58.458524896+01:00","level":"INFO","msg":"stream: started","id":"mlt3r342"}
+{"time":"2024-11-25T14:32:58.458602367+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mlt3r342"}}
+{"time":"2024-11-25T14:32:58.458659004+01:00","level":"INFO","msg":"sender: started","stream_id":"mlt3r342"}
+{"time":"2024-11-25T14:32:58.458697295+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mlt3r342"}}
+{"time":"2024-11-25T14:32:58.763130385+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T14:38:03.626690041+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T14:38:03.638040392+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T14:38:04.493050801+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T14:38:04.627936483+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.134561308}],"total_operations":1}}
+{"time":"2024-11-25T14:38:05.749678679+01:00","level":"INFO","msg":"stream: closing","id":"mlt3r342"}
+{"time":"2024-11-25T14:38:05.749713476+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mlt3r342"}}
+{"time":"2024-11-25T14:38:05.749735566+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mlt3r342"}}
+{"time":"2024-11-25T14:38:05.74975251+01:00","level":"INFO","msg":"sender: closed","stream_id":"mlt3r342"}
+{"time":"2024-11-25T14:38:05.749802502+01:00","level":"INFO","msg":"stream: closed","id":"mlt3r342"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:22:32.570676005+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:22:32.570712693+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_162232-i6xk4fbi/logs/debug-core.log"}
+{"time":"2024-11-25T16:22:32.832105892+01:00","level":"INFO","msg":"created new stream","id":"i6xk4fbi"}
+{"time":"2024-11-25T16:22:32.83218294+01:00","level":"INFO","msg":"stream: started","id":"i6xk4fbi"}
+{"time":"2024-11-25T16:22:32.832251357+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"i6xk4fbi"}}
+{"time":"2024-11-25T16:22:32.832320672+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"i6xk4fbi"}}
+{"time":"2024-11-25T16:22:32.832299067+01:00","level":"INFO","msg":"sender: started","stream_id":"i6xk4fbi"}
+{"time":"2024-11-25T16:22:33.1807737+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:25:28.472247904+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:25:28.473094974+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:25:29.474460538+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.620926126}],"total_operations":1}}
+{"time":"2024-11-25T16:25:29.656307477+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:25:31.080395837+01:00","level":"INFO","msg":"stream: closing","id":"i6xk4fbi"}
+{"time":"2024-11-25T16:25:31.080458842+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"i6xk4fbi"}}
+{"time":"2024-11-25T16:25:31.080486485+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"i6xk4fbi"}}
+{"time":"2024-11-25T16:25:31.080589646+01:00","level":"INFO","msg":"sender: closed","stream_id":"i6xk4fbi"}
+{"time":"2024-11-25T16:25:31.080601987+01:00","level":"INFO","msg":"stream: closed","id":"i6xk4fbi"}

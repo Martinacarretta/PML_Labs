@@ -1,0 +1,17 @@
+{"time":"2024-11-17T18:07:45.94221454+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-17T18:07:45.942228207+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241117_180743-ieshf74x/logs/debug-core.log"}
+{"time":"2024-11-17T18:07:46.133914559+01:00","level":"INFO","msg":"created new stream","id":"ieshf74x"}
+{"time":"2024-11-17T18:07:46.133958029+01:00","level":"INFO","msg":"stream: started","id":"ieshf74x"}
+{"time":"2024-11-17T18:07:46.134006412+01:00","level":"INFO","msg":"sender: started","stream_id":"ieshf74x"}
+{"time":"2024-11-17T18:07:46.134006846+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ieshf74x"}}
+{"time":"2024-11-17T18:07:46.134063093+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ieshf74x"}}
+{"time":"2024-11-17T18:07:46.412306517+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T19:00:26.452335055+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T19:00:26.469092589+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T19:00:27.476757663+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.549064319,"progress":"833.0KB/833.0KB"}],"total_operations":1}}
+{"time":"2024-11-17T19:00:27.677940492+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T19:00:29.082719534+01:00","level":"INFO","msg":"stream: closing","id":"ieshf74x"}
+{"time":"2024-11-17T19:00:29.082761079+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ieshf74x"}}
+{"time":"2024-11-17T19:00:29.082923181+01:00","level":"INFO","msg":"sender: closed","stream_id":"ieshf74x"}
+{"time":"2024-11-17T19:00:29.082899453+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ieshf74x"}}
+{"time":"2024-11-17T19:00:29.083048233+01:00","level":"INFO","msg":"stream: closed","id":"ieshf74x"}

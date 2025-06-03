@@ -1,0 +1,33 @@
+{"time":"2024-11-20T02:09:12.327416427+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:09:12.327507168+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_020912-ueoo166m/logs/debug-core.log"}
+{"time":"2024-11-20T02:09:13.026885258+01:00","level":"INFO","msg":"created new stream","id":"ueoo166m"}
+{"time":"2024-11-20T02:09:13.027066563+01:00","level":"INFO","msg":"stream: started","id":"ueoo166m"}
+{"time":"2024-11-20T02:09:13.027250397+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ueoo166m"}}
+{"time":"2024-11-20T02:09:13.027373395+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ueoo166m"}}
+{"time":"2024-11-20T02:09:13.027512903+01:00","level":"INFO","msg":"sender: started","stream_id":"ueoo166m"}
+{"time":"2024-11-20T02:09:13.620690912+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:09:14.342258357+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:09:15.061500607+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:09:15.372636049+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:12.63381571+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:12.758056359+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:22.324687918+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:22.332167517+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:23.354731164+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:23.363783351+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:24.145568874+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:24.168126637+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:24.798731785+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:24.80701373+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:25.458032934+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:25.464366012+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:11:26.299411224+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:11:26.35928829+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:11:26.360736097+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:11:27.361965657+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.350429079},{"desc":"uploading config.yaml","runtime_seconds":0.161719624,"progress":"740B/740B"},{"desc":"uploading output.log","runtime_seconds":0.16169988,"progress":"194B/194B"}],"total_operations":3}}
+{"time":"2024-11-20T02:11:27.516524362+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T02:11:28.825070123+01:00","level":"INFO","msg":"stream: closing","id":"ueoo166m"}
+{"time":"2024-11-20T02:11:28.825152606+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ueoo166m"}}
+{"time":"2024-11-20T02:11:28.825245591+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ueoo166m"}}
+{"time":"2024-11-20T02:11:28.825342776+01:00","level":"INFO","msg":"sender: closed","stream_id":"ueoo166m"}
+{"time":"2024-11-20T02:11:28.825441762+01:00","level":"INFO","msg":"stream: closed","id":"ueoo166m"}

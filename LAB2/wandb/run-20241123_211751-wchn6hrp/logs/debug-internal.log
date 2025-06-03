@@ -1,0 +1,17 @@
+{"time":"2024-11-23T21:17:51.426574696+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T21:17:51.426677353+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_211751-wchn6hrp/logs/debug-core.log"}
+{"time":"2024-11-23T21:17:51.976896734+01:00","level":"INFO","msg":"created new stream","id":"wchn6hrp"}
+{"time":"2024-11-23T21:17:51.977051069+01:00","level":"INFO","msg":"stream: started","id":"wchn6hrp"}
+{"time":"2024-11-23T21:17:51.977126139+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wchn6hrp"}}
+{"time":"2024-11-23T21:17:51.977260758+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wchn6hrp"}}
+{"time":"2024-11-23T21:17:51.977179584+01:00","level":"INFO","msg":"sender: started","stream_id":"wchn6hrp"}
+{"time":"2024-11-23T21:17:52.329252921+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T21:21:52.33735878+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:21:52.339766202+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:21:53.099039749+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:21:53.296835548+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-23T21:21:54.391785551+01:00","level":"INFO","msg":"stream: closing","id":"wchn6hrp"}
+{"time":"2024-11-23T21:21:54.391860779+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wchn6hrp"}}
+{"time":"2024-11-23T21:21:54.392034619+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wchn6hrp"}}
+{"time":"2024-11-23T21:21:54.39208058+01:00","level":"INFO","msg":"sender: closed","stream_id":"wchn6hrp"}
+{"time":"2024-11-23T21:21:54.392238467+01:00","level":"INFO","msg":"stream: closed","id":"wchn6hrp"}

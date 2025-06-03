@@ -1,0 +1,17 @@
+{"time":"2024-11-25T13:02:00.335380461+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T13:02:00.335622474+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_130200-vpn00zvg/logs/debug-core.log"}
+{"time":"2024-11-25T13:02:00.652906476+01:00","level":"INFO","msg":"created new stream","id":"vpn00zvg"}
+{"time":"2024-11-25T13:02:00.653350059+01:00","level":"INFO","msg":"stream: started","id":"vpn00zvg"}
+{"time":"2024-11-25T13:02:00.653877547+01:00","level":"INFO","msg":"sender: started","stream_id":"vpn00zvg"}
+{"time":"2024-11-25T13:02:00.65379904+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vpn00zvg"}}
+{"time":"2024-11-25T13:02:00.653784027+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vpn00zvg"}}
+{"time":"2024-11-25T13:02:01.088883332+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T13:23:43.083253049+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T13:23:43.093281456+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T13:23:44.084798543+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.567369022}],"total_operations":1}}
+{"time":"2024-11-25T13:23:46.217978951+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T13:23:47.568381009+01:00","level":"INFO","msg":"stream: closing","id":"vpn00zvg"}
+{"time":"2024-11-25T13:23:47.568438771+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vpn00zvg"}}
+{"time":"2024-11-25T13:23:47.568555245+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vpn00zvg"}}
+{"time":"2024-11-25T13:23:47.56856459+01:00","level":"INFO","msg":"sender: closed","stream_id":"vpn00zvg"}
+{"time":"2024-11-25T13:23:47.568664368+01:00","level":"INFO","msg":"stream: closed","id":"vpn00zvg"}

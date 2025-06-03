@@ -1,0 +1,23 @@
+{"time":"2024-11-24T01:23:09.278522966+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T01:23:09.278569784+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_012309-ystqs4e0/logs/debug-core.log"}
+{"time":"2024-11-24T01:23:09.578374644+01:00","level":"INFO","msg":"created new stream","id":"ystqs4e0"}
+{"time":"2024-11-24T01:23:09.57847924+01:00","level":"INFO","msg":"stream: started","id":"ystqs4e0"}
+{"time":"2024-11-24T01:23:09.578566892+01:00","level":"INFO","msg":"sender: started","stream_id":"ystqs4e0"}
+{"time":"2024-11-24T01:23:09.578561113+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ystqs4e0"}}
+{"time":"2024-11-24T01:23:09.578634218+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ystqs4e0"}}
+{"time":"2024-11-24T01:23:09.942659223+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T01:23:57.67151933+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:25:02.110348408+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:25:02.156013444+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:25:03.273320203+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:25:03.28108818+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:25:09.257047161+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:25:09.263331131+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T01:25:09.268680036+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T01:25:10.042011858+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T01:25:10.252115524+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-24T01:25:11.322603479+01:00","level":"INFO","msg":"stream: closing","id":"ystqs4e0"}
+{"time":"2024-11-24T01:25:11.322664855+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ystqs4e0"}}
+{"time":"2024-11-24T01:25:11.322731746+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ystqs4e0"}}
+{"time":"2024-11-24T01:25:11.322765507+01:00","level":"INFO","msg":"sender: closed","stream_id":"ystqs4e0"}
+{"time":"2024-11-24T01:25:11.322946107+01:00","level":"INFO","msg":"stream: closed","id":"ystqs4e0"}

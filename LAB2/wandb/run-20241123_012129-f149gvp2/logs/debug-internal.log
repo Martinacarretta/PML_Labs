@@ -1,0 +1,17 @@
+{"time":"2024-11-23T01:21:29.762836026+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T01:21:29.762856551+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_012129-f149gvp2/logs/debug-core.log"}
+{"time":"2024-11-23T01:21:30.068909253+01:00","level":"INFO","msg":"created new stream","id":"f149gvp2"}
+{"time":"2024-11-23T01:21:30.068983893+01:00","level":"INFO","msg":"stream: started","id":"f149gvp2"}
+{"time":"2024-11-23T01:21:30.069036712+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f149gvp2"}}
+{"time":"2024-11-23T01:21:30.069105526+01:00","level":"INFO","msg":"sender: started","stream_id":"f149gvp2"}
+{"time":"2024-11-23T01:21:30.06912204+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f149gvp2"}}
+{"time":"2024-11-23T01:21:30.376949083+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T01:25:40.111711801+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T01:25:40.116507641+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T01:25:41.06313689+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T01:25:41.116331959+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.05264135}],"total_operations":1}}
+{"time":"2024-11-23T01:25:42.670581526+01:00","level":"INFO","msg":"stream: closing","id":"f149gvp2"}
+{"time":"2024-11-23T01:25:42.670652663+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"f149gvp2"}}
+{"time":"2024-11-23T01:25:42.670700943+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f149gvp2"}}
+{"time":"2024-11-23T01:25:42.670779692+01:00","level":"INFO","msg":"sender: closed","stream_id":"f149gvp2"}
+{"time":"2024-11-23T01:25:42.6708426+01:00","level":"INFO","msg":"stream: closed","id":"f149gvp2"}

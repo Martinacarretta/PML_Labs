@@ -1,0 +1,17 @@
+{"time":"2024-11-23T01:39:35.198627251+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T01:39:35.198672004+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_013935-xervaszd/logs/debug-core.log"}
+{"time":"2024-11-23T01:39:35.433564802+01:00","level":"INFO","msg":"created new stream","id":"xervaszd"}
+{"time":"2024-11-23T01:39:35.433666446+01:00","level":"INFO","msg":"stream: started","id":"xervaszd"}
+{"time":"2024-11-23T01:39:35.433774954+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xervaszd"}}
+{"time":"2024-11-23T01:39:35.433884249+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xervaszd"}}
+{"time":"2024-11-23T01:39:35.433958319+01:00","level":"INFO","msg":"sender: started","stream_id":"xervaszd"}
+{"time":"2024-11-23T01:39:35.735308062+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T01:41:08.008150821+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T01:41:08.008934874+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T01:41:08.805734944+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T01:41:09.009274589+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.203244072}],"total_operations":1}}
+{"time":"2024-11-23T01:41:10.340045538+01:00","level":"INFO","msg":"stream: closing","id":"xervaszd"}
+{"time":"2024-11-23T01:41:10.340135098+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xervaszd"}}
+{"time":"2024-11-23T01:41:10.340182591+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xervaszd"}}
+{"time":"2024-11-23T01:41:10.340278216+01:00","level":"INFO","msg":"sender: closed","stream_id":"xervaszd"}
+{"time":"2024-11-23T01:41:10.340396512+01:00","level":"INFO","msg":"stream: closed","id":"xervaszd"}

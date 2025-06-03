@@ -1,0 +1,9 @@
+>>> Training starts at  2024-11-16 12:53:45.084025
+Standard Env.        : (8,)
+MaxAndSkipObservation: (8,)
+FrameStackObservation: (4, 8)
+ScaledFloatFrame     : (4, 8)
+4
+(4, 8)
+32
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

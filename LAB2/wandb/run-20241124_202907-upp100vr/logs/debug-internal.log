@@ -1,0 +1,31 @@
+{"time":"2024-11-24T20:29:07.933665754+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T20:29:07.933716496+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_202907-upp100vr/logs/debug-core.log"}
+{"time":"2024-11-24T20:29:08.175800232+01:00","level":"INFO","msg":"created new stream","id":"upp100vr"}
+{"time":"2024-11-24T20:29:08.175997005+01:00","level":"INFO","msg":"stream: started","id":"upp100vr"}
+{"time":"2024-11-24T20:29:08.176012301+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"upp100vr"}}
+{"time":"2024-11-24T20:29:08.176053281+01:00","level":"INFO","msg":"sender: started","stream_id":"upp100vr"}
+{"time":"2024-11-24T20:29:08.176066232+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"upp100vr"}}
+{"time":"2024-11-24T20:29:08.469714716+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T20:32:22.821606314+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:48.341654721+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:48.3651208+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:49.948749671+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:49.989307146+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:50.942427349+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:50.954225439+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:51.722663693+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:51.731567617+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:53.383573101+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:53.398563034+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:56.01829891+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:56.070540738+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T20:32:59.912060835+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T20:32:59.920376456+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T20:32:59.923052677+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T20:33:00.856200476+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T20:33:00.92395908+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.067461584}],"total_operations":1}}
+{"time":"2024-11-24T20:33:02.097608475+01:00","level":"INFO","msg":"stream: closing","id":"upp100vr"}
+{"time":"2024-11-24T20:33:02.097644772+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"upp100vr"}}
+{"time":"2024-11-24T20:33:02.097682172+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"upp100vr"}}
+{"time":"2024-11-24T20:33:02.097699413+01:00","level":"INFO","msg":"sender: closed","stream_id":"upp100vr"}
+{"time":"2024-11-24T20:33:02.09777953+01:00","level":"INFO","msg":"stream: closed","id":"upp100vr"}

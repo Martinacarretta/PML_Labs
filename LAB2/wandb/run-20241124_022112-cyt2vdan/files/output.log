@@ -1,0 +1,18 @@
+>>> Training starts at  2024-11-24 02:21:15.976851
+/tmp/ipykernel_426/150277776.py:33: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  state_batch = torch.tensor(states, dtype=torch.float32)
+Trajectory 50	Mean reward (last 100): -350.93
+Trajectory 100	Mean reward (last 100): -280.24
+Trajectory 150	Mean reward (last 100): -171.32
+Trajectory 200	Mean reward (last 100): -142.57
+Trajectory 250	Mean reward (last 100): -165.04
+Trajectory 300	Mean reward (last 100): -138.32
+Trajectory 350	Mean reward (last 100): -62.17
+Trajectory 400	Mean reward (last 100): -9.41
+Trajectory 450	Mean reward (last 100): 24.46
+Trajectory 500	Mean reward (last 100): 49.29
+Trajectory 550	Mean reward (last 100): 50.04
+Trajectory 600	Mean reward (last 100): 46.54
+Trajectory 650	Mean reward (last 100): 58.23
+Trajectory 700	Mean reward (last 100): 72.64
+>>> Training completed at  2024-11-24 02:22:33.569931

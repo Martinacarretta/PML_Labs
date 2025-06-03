@@ -1,0 +1,17 @@
+{"time":"2024-11-25T04:39:22.965675043+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T04:39:22.965702517+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_043922-54rw8teq/logs/debug-core.log"}
+{"time":"2024-11-25T04:39:23.138894401+01:00","level":"INFO","msg":"created new stream","id":"54rw8teq"}
+{"time":"2024-11-25T04:39:23.138942926+01:00","level":"INFO","msg":"stream: started","id":"54rw8teq"}
+{"time":"2024-11-25T04:39:23.139001092+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"54rw8teq"}}
+{"time":"2024-11-25T04:39:23.139050926+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"54rw8teq"}}
+{"time":"2024-11-25T04:39:23.139079992+01:00","level":"INFO","msg":"sender: started","stream_id":"54rw8teq"}
+{"time":"2024-11-25T04:39:23.411693906+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T04:57:19.039140221+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T04:57:19.040996149+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T04:57:20.041487161+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.513113436,"progress":"579B/579B"},{"desc":"uploading output.log","runtime_seconds":0.513126605,"progress":"329B/329B"}],"total_operations":2}}
+{"time":"2024-11-25T04:57:20.137708505+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T04:57:21.425027506+01:00","level":"INFO","msg":"stream: closing","id":"54rw8teq"}
+{"time":"2024-11-25T04:57:21.425104573+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"54rw8teq"}}
+{"time":"2024-11-25T04:57:21.425171091+01:00","level":"INFO","msg":"sender: closed","stream_id":"54rw8teq"}
+{"time":"2024-11-25T04:57:21.42516264+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"54rw8teq"}}
+{"time":"2024-11-25T04:57:21.425856324+01:00","level":"INFO","msg":"stream: closed","id":"54rw8teq"}

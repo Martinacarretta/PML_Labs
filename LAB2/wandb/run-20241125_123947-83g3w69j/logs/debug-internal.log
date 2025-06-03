@@ -1,0 +1,25 @@
+{"time":"2024-11-25T12:39:47.910716357+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T12:39:47.910814746+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_123947-83g3w69j/logs/debug-core.log"}
+{"time":"2024-11-25T12:39:48.313816636+01:00","level":"INFO","msg":"created new stream","id":"83g3w69j"}
+{"time":"2024-11-25T12:39:48.313896806+01:00","level":"INFO","msg":"stream: started","id":"83g3w69j"}
+{"time":"2024-11-25T12:39:48.314047082+01:00","level":"INFO","msg":"sender: started","stream_id":"83g3w69j"}
+{"time":"2024-11-25T12:39:48.313969481+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"83g3w69j"}}
+{"time":"2024-11-25T12:39:48.314109796+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"83g3w69j"}}
+{"time":"2024-11-25T12:39:48.662767752+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T12:39:53.305491588+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:39:59.13786767+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:39:59.16221277+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:40:09.163955813+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:40:09.189840121+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:40:10.277575416+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:40:10.320401167+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:40:12.688627947+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:40:12.695080565+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T12:40:12.702331773+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T12:40:13.703677317+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.836283743,"subtasks":[{"desc":"requirements.frozen.txt","runtime_seconds":0.245129282,"progress":"4.5KB/4.5KB"},{"desc":"wandb-job.json","runtime_seconds":0.245153095,"progress":"533B/533B"}]}],"total_operations":1}}
+{"time":"2024-11-25T12:40:15.071695439+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T12:40:16.310985872+01:00","level":"INFO","msg":"stream: closing","id":"83g3w69j"}
+{"time":"2024-11-25T12:40:16.311192133+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"83g3w69j"}}
+{"time":"2024-11-25T12:40:16.311394289+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"83g3w69j"}}
+{"time":"2024-11-25T12:40:16.311511925+01:00","level":"INFO","msg":"sender: closed","stream_id":"83g3w69j"}
+{"time":"2024-11-25T12:40:16.311931452+01:00","level":"INFO","msg":"stream: closed","id":"83g3w69j"}

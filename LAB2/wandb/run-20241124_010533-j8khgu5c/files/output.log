@@ -1,0 +1,10 @@
+Running with parameters: LR=0.0001, MEMORY_SIZE=5000, BATCH_SIZE=32, EPSILON_DECAY=0.99, GAMMA=0.99
+>>> Training starts at  2024-11-24 01:05:34.671759
+Filling replay buffer...
+Training...
+Episode 60 Mean Rewards -206.02 Epsilon 0.5526834771623851		
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3904: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/_methods.py:147: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

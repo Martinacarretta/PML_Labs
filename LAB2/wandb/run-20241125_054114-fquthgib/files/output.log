@@ -1,0 +1,7 @@
+Running with parameters: LR=0.001, MEMORY_SIZE=50000, BATCH_SIZE=64, EPSILON_DECAY=0.99, GAMMA=0.99
+>>> Training starts at  2024-11-25 05:41:15.501094
+Filling replay buffer...
+Training...
+Episode 423 Mean Rewards 200.79 Epsilon 0.01424581547838222			
+Environment solved in 423 episodes!
+>>> Training completed at  2024-11-25 05:57:01.753445

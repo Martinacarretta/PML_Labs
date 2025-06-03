@@ -1,0 +1,17 @@
+{"time":"2024-11-24T19:25:24.031283219+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T19:25:24.03131365+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_192524-vuhiz596/logs/debug-core.log"}
+{"time":"2024-11-24T19:25:24.367804073+01:00","level":"INFO","msg":"created new stream","id":"vuhiz596"}
+{"time":"2024-11-24T19:25:24.367857164+01:00","level":"INFO","msg":"stream: started","id":"vuhiz596"}
+{"time":"2024-11-24T19:25:24.367892526+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vuhiz596"}}
+{"time":"2024-11-24T19:25:24.367920893+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vuhiz596"}}
+{"time":"2024-11-24T19:25:24.36795256+01:00","level":"INFO","msg":"sender: started","stream_id":"vuhiz596"}
+{"time":"2024-11-24T19:25:24.648399453+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T19:36:02.481695073+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T19:36:02.49519199+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T19:36:03.308177577+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T19:36:03.483765697+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.175365417}],"total_operations":1}}
+{"time":"2024-11-24T19:36:04.540951539+01:00","level":"INFO","msg":"stream: closing","id":"vuhiz596"}
+{"time":"2024-11-24T19:36:04.541057069+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vuhiz596"}}
+{"time":"2024-11-24T19:36:04.541089455+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vuhiz596"}}
+{"time":"2024-11-24T19:36:04.541151398+01:00","level":"INFO","msg":"sender: closed","stream_id":"vuhiz596"}
+{"time":"2024-11-24T19:36:04.541352144+01:00","level":"INFO","msg":"stream: closed","id":"vuhiz596"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-24T19:13:28.275532259+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T19:13:28.275575148+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_191328-scsrbuhx/logs/debug-core.log"}
+{"time":"2024-11-24T19:13:28.732187333+01:00","level":"INFO","msg":"created new stream","id":"scsrbuhx"}
+{"time":"2024-11-24T19:13:28.732229029+01:00","level":"INFO","msg":"stream: started","id":"scsrbuhx"}
+{"time":"2024-11-24T19:13:28.732394144+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"scsrbuhx"}}
+{"time":"2024-11-24T19:13:28.732438424+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"scsrbuhx"}}
+{"time":"2024-11-24T19:13:28.732476072+01:00","level":"INFO","msg":"sender: started","stream_id":"scsrbuhx"}
+{"time":"2024-11-24T19:13:28.994317352+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T19:21:40.565663065+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T19:21:40.571628143+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T19:21:41.56852347+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.698604435}],"total_operations":1}}
+{"time":"2024-11-24T19:21:41.65558725+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T19:21:42.934828566+01:00","level":"INFO","msg":"stream: closing","id":"scsrbuhx"}
+{"time":"2024-11-24T19:21:42.934873498+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"scsrbuhx"}}
+{"time":"2024-11-24T19:21:42.935022125+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"scsrbuhx"}}
+{"time":"2024-11-24T19:21:42.935128341+01:00","level":"INFO","msg":"sender: closed","stream_id":"scsrbuhx"}
+{"time":"2024-11-24T19:21:42.935274492+01:00","level":"INFO","msg":"stream: closed","id":"scsrbuhx"}

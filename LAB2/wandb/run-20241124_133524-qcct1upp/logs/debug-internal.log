@@ -1,0 +1,17 @@
+{"time":"2024-11-24T13:35:24.926725353+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T13:35:24.926753191+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_133524-qcct1upp/logs/debug-core.log"}
+{"time":"2024-11-24T13:35:25.228687063+01:00","level":"INFO","msg":"created new stream","id":"qcct1upp"}
+{"time":"2024-11-24T13:35:25.22873117+01:00","level":"INFO","msg":"stream: started","id":"qcct1upp"}
+{"time":"2024-11-24T13:35:25.228778312+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qcct1upp"}}
+{"time":"2024-11-24T13:35:25.228891422+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qcct1upp"}}
+{"time":"2024-11-24T13:35:25.228938278+01:00","level":"INFO","msg":"sender: started","stream_id":"qcct1upp"}
+{"time":"2024-11-24T13:35:25.479011552+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T13:42:03.152445264+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T13:42:03.153321903+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T13:42:03.902643766+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T13:42:04.126307934+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-24T13:42:05.166112927+01:00","level":"INFO","msg":"stream: closing","id":"qcct1upp"}
+{"time":"2024-11-24T13:42:05.166202883+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qcct1upp"}}
+{"time":"2024-11-24T13:42:05.166288351+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qcct1upp"}}
+{"time":"2024-11-24T13:42:05.166348161+01:00","level":"INFO","msg":"sender: closed","stream_id":"qcct1upp"}
+{"time":"2024-11-24T13:42:05.166399842+01:00","level":"INFO","msg":"stream: closed","id":"qcct1upp"}

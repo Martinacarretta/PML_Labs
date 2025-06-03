@@ -1,0 +1,25 @@
+{"time":"2024-11-25T03:52:17.256452774+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T03:52:17.256482448+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_035217-fse126l3/logs/debug-core.log"}
+{"time":"2024-11-25T03:52:17.474133921+01:00","level":"INFO","msg":"created new stream","id":"fse126l3"}
+{"time":"2024-11-25T03:52:17.474197541+01:00","level":"INFO","msg":"stream: started","id":"fse126l3"}
+{"time":"2024-11-25T03:52:17.474276011+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fse126l3"}}
+{"time":"2024-11-25T03:52:17.474448523+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fse126l3"}}
+{"time":"2024-11-25T03:52:17.474516609+01:00","level":"INFO","msg":"sender: started","stream_id":"fse126l3"}
+{"time":"2024-11-25T03:52:18.038555872+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T04:01:58.735298043+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T04:04:28.065440193+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T04:04:28.08458471+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T04:04:37.724663961+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T04:04:37.785226554+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T04:04:39.480216443+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T04:04:39.489170096+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T04:04:42.151952467+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T04:04:42.596207089+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T04:04:42.643320026+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T04:04:43.735577168+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.815733538},{"desc":"saving job artifact","runtime_seconds":0.325680814},{"desc":"uploading wandb-summary.json","runtime_seconds":0.285549136}],"total_operations":3}}
+{"time":"2024-11-25T04:04:46.631595943+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T04:04:48.500003741+01:00","level":"INFO","msg":"stream: closing","id":"fse126l3"}
+{"time":"2024-11-25T04:04:48.500113728+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fse126l3"}}
+{"time":"2024-11-25T04:04:48.500391039+01:00","level":"INFO","msg":"sender: closed","stream_id":"fse126l3"}
+{"time":"2024-11-25T04:04:48.500346519+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fse126l3"}}
+{"time":"2024-11-25T04:04:48.501217998+01:00","level":"INFO","msg":"stream: closed","id":"fse126l3"}

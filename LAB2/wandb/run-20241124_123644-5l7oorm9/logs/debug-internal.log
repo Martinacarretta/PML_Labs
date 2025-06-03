@@ -1,0 +1,17 @@
+{"time":"2024-11-24T12:36:44.486466769+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T12:36:44.486842301+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_123644-5l7oorm9/logs/debug-core.log"}
+{"time":"2024-11-24T12:36:44.72347651+01:00","level":"INFO","msg":"created new stream","id":"5l7oorm9"}
+{"time":"2024-11-24T12:36:44.723584922+01:00","level":"INFO","msg":"stream: started","id":"5l7oorm9"}
+{"time":"2024-11-24T12:36:44.723910114+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5l7oorm9"}}
+{"time":"2024-11-24T12:36:44.724391164+01:00","level":"INFO","msg":"sender: started","stream_id":"5l7oorm9"}
+{"time":"2024-11-24T12:36:44.724406669+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5l7oorm9"}}
+{"time":"2024-11-24T12:36:45.289263599+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T12:43:28.701367453+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T12:43:28.703363833+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T12:43:29.701663274+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.846681719,"subtasks":[{"desc":"requirements.frozen.txt","runtime_seconds":0.160890243,"progress":"4.5KB/4.5KB"},{"desc":"wandb-job.json","runtime_seconds":0.160870128,"progress":"860B/860B"}]}],"total_operations":1}}
+{"time":"2024-11-24T12:43:31.195950867+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T12:43:32.434084335+01:00","level":"INFO","msg":"stream: closing","id":"5l7oorm9"}
+{"time":"2024-11-24T12:43:32.434139795+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5l7oorm9"}}
+{"time":"2024-11-24T12:43:32.434171895+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5l7oorm9"}}
+{"time":"2024-11-24T12:43:32.43427001+01:00","level":"INFO","msg":"sender: closed","stream_id":"5l7oorm9"}
+{"time":"2024-11-24T12:43:32.434280026+01:00","level":"INFO","msg":"stream: closed","id":"5l7oorm9"}

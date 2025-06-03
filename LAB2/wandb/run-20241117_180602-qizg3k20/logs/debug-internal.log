@@ -1,0 +1,47 @@
+{"time":"2024-11-17T18:06:02.151535735+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-17T18:06:02.151564964+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241117_180602-qizg3k20/logs/debug-core.log"}
+{"time":"2024-11-17T18:06:02.343829512+01:00","level":"INFO","msg":"created new stream","id":"qizg3k20"}
+{"time":"2024-11-17T18:06:02.343876733+01:00","level":"INFO","msg":"stream: started","id":"qizg3k20"}
+{"time":"2024-11-17T18:06:02.344017029+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qizg3k20"}}
+{"time":"2024-11-17T18:06:02.344501979+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qizg3k20"}}
+{"time":"2024-11-17T18:06:02.344551866+01:00","level":"INFO","msg":"sender: started","stream_id":"qizg3k20"}
+{"time":"2024-11-17T18:06:02.691717835+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T18:06:03.052766179+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:06:03.91675687+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:06:03.936121851+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:06:05.280181104+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:06:05.285249965+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:06:07.695716057+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:06:29.33239255+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:06:30.747529758+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:06:30.786520173+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:39.208188841+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:41.248572482+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:41.263282741+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.275732813+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.333107263+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.335256758+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.360648957+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.371917073+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.401409718+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.40330848+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.425479281+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.428272815+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.456352687+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.486197079+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.508550355+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.52203852+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.548658314+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.554879452+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.574194938+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.577644479+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T18:07:43.600586645+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T18:07:43.775773013+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T18:07:43.777096536+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T18:07:44.6054918+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T18:07:44.776606507+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.169787171}],"total_operations":1}}
+{"time":"2024-11-17T18:07:45.892989727+01:00","level":"INFO","msg":"stream: closing","id":"qizg3k20"}
+{"time":"2024-11-17T18:07:45.893038381+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qizg3k20"}}
+{"time":"2024-11-17T18:07:45.893063537+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qizg3k20"}}
+{"time":"2024-11-17T18:07:45.893114289+01:00","level":"INFO","msg":"sender: closed","stream_id":"qizg3k20"}
+{"time":"2024-11-17T18:07:45.893165706+01:00","level":"INFO","msg":"stream: closed","id":"qizg3k20"}

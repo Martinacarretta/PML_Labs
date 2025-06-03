@@ -1,0 +1,17 @@
+{"time":"2024-11-24T12:01:58.108472226+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T12:01:58.108525424+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_120158-jf7gnggu/logs/debug-core.log"}
+{"time":"2024-11-24T12:01:58.464087024+01:00","level":"INFO","msg":"created new stream","id":"jf7gnggu"}
+{"time":"2024-11-24T12:01:58.464204983+01:00","level":"INFO","msg":"stream: started","id":"jf7gnggu"}
+{"time":"2024-11-24T12:01:58.464286247+01:00","level":"INFO","msg":"sender: started","stream_id":"jf7gnggu"}
+{"time":"2024-11-24T12:01:58.464320869+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jf7gnggu"}}
+{"time":"2024-11-24T12:01:58.464320032+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jf7gnggu"}}
+{"time":"2024-11-24T12:01:58.752435228+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T12:05:57.406900002+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T12:05:57.407874753+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T12:05:58.20876582+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T12:05:58.408320927+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.199163188}],"total_operations":1}}
+{"time":"2024-11-24T12:05:59.471067507+01:00","level":"INFO","msg":"stream: closing","id":"jf7gnggu"}
+{"time":"2024-11-24T12:05:59.471161812+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jf7gnggu"}}
+{"time":"2024-11-24T12:05:59.471212096+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jf7gnggu"}}
+{"time":"2024-11-24T12:05:59.471300216+01:00","level":"INFO","msg":"sender: closed","stream_id":"jf7gnggu"}
+{"time":"2024-11-24T12:05:59.471620919+01:00","level":"INFO","msg":"stream: closed","id":"jf7gnggu"}

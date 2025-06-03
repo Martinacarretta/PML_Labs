@@ -1,0 +1,17 @@
+{"time":"2024-11-24T20:14:19.331973692+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T20:14:19.332019624+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_201419-zviz1a2x/logs/debug-core.log"}
+{"time":"2024-11-24T20:14:19.7151291+01:00","level":"INFO","msg":"created new stream","id":"zviz1a2x"}
+{"time":"2024-11-24T20:14:19.715206191+01:00","level":"INFO","msg":"stream: started","id":"zviz1a2x"}
+{"time":"2024-11-24T20:14:19.715260359+01:00","level":"INFO","msg":"sender: started","stream_id":"zviz1a2x"}
+{"time":"2024-11-24T20:14:19.715279075+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zviz1a2x"}}
+{"time":"2024-11-24T20:14:19.715289037+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zviz1a2x"}}
+{"time":"2024-11-24T20:14:20.033553687+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T20:16:53.245824958+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T20:16:53.247272145+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T20:16:54.148416315+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T20:16:54.247005287+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.097236657}],"total_operations":1}}
+{"time":"2024-11-24T20:16:55.386668595+01:00","level":"INFO","msg":"stream: closing","id":"zviz1a2x"}
+{"time":"2024-11-24T20:16:55.386731984+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zviz1a2x"}}
+{"time":"2024-11-24T20:16:55.386792557+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zviz1a2x"}}
+{"time":"2024-11-24T20:16:55.386859283+01:00","level":"INFO","msg":"sender: closed","stream_id":"zviz1a2x"}
+{"time":"2024-11-24T20:16:55.386949424+01:00","level":"INFO","msg":"stream: closed","id":"zviz1a2x"}

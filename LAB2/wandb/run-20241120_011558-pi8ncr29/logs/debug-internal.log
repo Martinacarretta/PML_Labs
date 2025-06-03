@@ -1,0 +1,21 @@
+{"time":"2024-11-20T01:15:58.800918201+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T01:15:58.801048401+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_011558-pi8ncr29/logs/debug-core.log"}
+{"time":"2024-11-20T01:15:59.202407592+01:00","level":"INFO","msg":"created new stream","id":"pi8ncr29"}
+{"time":"2024-11-20T01:15:59.202637952+01:00","level":"INFO","msg":"stream: started","id":"pi8ncr29"}
+{"time":"2024-11-20T01:15:59.203538118+01:00","level":"INFO","msg":"sender: started","stream_id":"pi8ncr29"}
+{"time":"2024-11-20T01:15:59.203178052+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pi8ncr29"}}
+{"time":"2024-11-20T01:15:59.203141407+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pi8ncr29"}}
+{"time":"2024-11-20T01:15:59.510007519+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T01:16:00.081869329+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T01:16:10.227941416+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T01:16:10.505950055+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T01:16:56.266883512+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T01:16:56.305050455+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T01:16:56.307445136+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T01:16:57.306183388+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.447365059}],"total_operations":1}}
+{"time":"2024-11-20T01:16:57.437211491+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T01:16:58.709720565+01:00","level":"INFO","msg":"stream: closing","id":"pi8ncr29"}
+{"time":"2024-11-20T01:16:58.709956058+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"pi8ncr29"}}
+{"time":"2024-11-20T01:16:58.710079551+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pi8ncr29"}}
+{"time":"2024-11-20T01:16:58.710144973+01:00","level":"INFO","msg":"sender: closed","stream_id":"pi8ncr29"}
+{"time":"2024-11-20T01:16:58.710655349+01:00","level":"INFO","msg":"stream: closed","id":"pi8ncr29"}

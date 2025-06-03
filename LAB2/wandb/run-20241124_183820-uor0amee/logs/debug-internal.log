@@ -1,0 +1,18 @@
+{"time":"2024-11-24T18:38:21.010969828+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T18:38:21.011034068+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_183820-uor0amee/logs/debug-core.log"}
+{"time":"2024-11-24T18:38:21.260952122+01:00","level":"INFO","msg":"created new stream","id":"uor0amee"}
+{"time":"2024-11-24T18:38:21.260996257+01:00","level":"INFO","msg":"stream: started","id":"uor0amee"}
+{"time":"2024-11-24T18:38:21.261078766+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uor0amee"}}
+{"time":"2024-11-24T18:38:21.261159682+01:00","level":"INFO","msg":"sender: started","stream_id":"uor0amee"}
+{"time":"2024-11-24T18:38:21.261104327+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"uor0amee"}}
+{"time":"2024-11-24T18:38:21.715172645+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T19:09:38.80268123+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.26.75.100:58478->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-24T19:13:25.982831116+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T19:13:25.990243754+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T19:13:26.766930378+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T19:13:26.985315729+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.217445989}],"total_operations":1}}
+{"time":"2024-11-24T19:13:28.151060555+01:00","level":"INFO","msg":"stream: closing","id":"uor0amee"}
+{"time":"2024-11-24T19:13:28.151110935+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"uor0amee"}}
+{"time":"2024-11-24T19:13:28.151232735+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"uor0amee"}}
+{"time":"2024-11-24T19:13:28.151278763+01:00","level":"INFO","msg":"sender: closed","stream_id":"uor0amee"}
+{"time":"2024-11-24T19:13:28.151405402+01:00","level":"INFO","msg":"stream: closed","id":"uor0amee"}

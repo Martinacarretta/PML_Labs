@@ -1,0 +1,44 @@
+2024-11-16 21:05:54,359 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Configure stats pid to 31144
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Loading settings from /home/martina/.config/wandb/settings
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Loading settings from /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/settings
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-16 21:05:54,360 INFO    MainThread:31144 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-16 21:05:54,361 INFO    MainThread:31144 [wandb_init.py:_log_setup():534] Logging user logs to /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_210554-be0k4niq/logs/debug.log
+2024-11-16 21:05:54,361 INFO    MainThread:31144 [wandb_init.py:_log_setup():535] Logging internal logs to /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_210554-be0k4niq/logs/debug-internal.log
+2024-11-16 21:05:54,365 INFO    MainThread:31144 [wandb_init.py:init():621] calling init triggers
+2024-11-16 21:05:54,366 INFO    MainThread:31144 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2024-11-16 21:05:54,366 INFO    MainThread:31144 [wandb_init.py:init():646] re-initializing run, found existing run on stack: a9vbng7c
+2024-11-16 21:05:54,393 INFO    MainThread:31144 [wandb_run.py:_finish():2158] finishing run martinacarrettab/PLAB2_LunaLander/a9vbng7c
+2024-11-16 21:05:54,396 INFO    MainThread:31144 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-16 21:05:54,396 INFO    MainThread:31144 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-16 21:05:54,396 INFO    MainThread:31144 [wandb_init.py:_jupyter_teardown():462] cleaning up jupyter logic
+2024-11-16 21:05:54,397 INFO    MainThread:31144 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-16 21:05:54,398 INFO    MainThread:31144 [wandb_run.py:_restore():2408] restore
+2024-11-16 21:05:54,406 INFO    MainThread:31144 [wandb_run.py:_restore():2414] restore done
+2024-11-16 21:05:56,922 INFO    MainThread:31144 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-16 21:05:56,931 INFO    MainThread:31144 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-16 21:05:57,008 INFO    MainThread:31144 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-11-16 21:05:57,030 INFO    MainThread:31144 [wandb_init.py:init():671] starting backend
+2024-11-16 21:05:57,031 INFO    MainThread:31144 [wandb_init.py:init():675] sending inform_init request
+2024-11-16 21:05:57,046 INFO    MainThread:31144 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-16 21:05:57,052 INFO    MainThread:31144 [wandb_init.py:init():688] backend started and connected
+2024-11-16 21:05:57,073 INFO    MainThread:31144 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-11-16 21:05:57,158 INFO    MainThread:31144 [wandb_init.py:init():783] updated telemetry
+2024-11-16 21:05:57,184 INFO    MainThread:31144 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-11-16 21:05:57,812 INFO    MainThread:31144 [wandb_init.py:init():867] starting run threads in backend
+2024-11-16 21:05:58,326 INFO    MainThread:31144 [wandb_run.py:_console_start():2463] atexit reg
+2024-11-16 21:05:58,326 INFO    MainThread:31144 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-11-16 21:05:58,326 INFO    MainThread:31144 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-11-16 21:05:58,327 INFO    MainThread:31144 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-11-16 21:05:58,328 INFO    MainThread:31144 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-16 21:13:23,545 INFO    MainThread:31144 [wandb_run.py:_finish():2158] finishing run martinacarrettab/PLAB2_LunaLander/be0k4niq
+2024-11-16 21:13:23,554 INFO    MainThread:31144 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-16 21:13:23,559 INFO    MainThread:31144 [wandb_run.py:_restore():2408] restore
+2024-11-16 21:13:23,561 INFO    MainThread:31144 [wandb_run.py:_restore():2414] restore done
+2024-11-16 21:13:25,984 INFO    MainThread:31144 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-16 21:13:25,991 INFO    MainThread:31144 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-16 21:13:26,070 INFO    MainThread:31144 [wandb_run.py:_footer_sync_info():3934] logging synced files

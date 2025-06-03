@@ -1,0 +1,17 @@
+{"time":"2024-11-24T15:59:47.442551078+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T15:59:47.442599795+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_155947-ov4cnvaf/logs/debug-core.log"}
+{"time":"2024-11-24T15:59:47.632232397+01:00","level":"INFO","msg":"created new stream","id":"ov4cnvaf"}
+{"time":"2024-11-24T15:59:47.632282304+01:00","level":"INFO","msg":"stream: started","id":"ov4cnvaf"}
+{"time":"2024-11-24T15:59:47.632346349+01:00","level":"INFO","msg":"sender: started","stream_id":"ov4cnvaf"}
+{"time":"2024-11-24T15:59:47.632332879+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ov4cnvaf"}}
+{"time":"2024-11-24T15:59:47.632399899+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ov4cnvaf"}}
+{"time":"2024-11-24T15:59:47.993207119+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T16:03:11.174122284+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T16:03:11.174624972+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T16:03:12.031405786+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T16:03:12.175123835+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.143355512}],"total_operations":1}}
+{"time":"2024-11-24T16:03:13.355451169+01:00","level":"INFO","msg":"stream: closing","id":"ov4cnvaf"}
+{"time":"2024-11-24T16:03:13.355549453+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ov4cnvaf"}}
+{"time":"2024-11-24T16:03:13.355585321+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ov4cnvaf"}}
+{"time":"2024-11-24T16:03:13.355645678+01:00","level":"INFO","msg":"sender: closed","stream_id":"ov4cnvaf"}
+{"time":"2024-11-24T16:03:13.355670108+01:00","level":"INFO","msg":"stream: closed","id":"ov4cnvaf"}

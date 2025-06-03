@@ -1,0 +1,25 @@
+{"time":"2024-11-17T19:00:29.207853282+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-17T19:00:29.207879797+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241117_190029-7cs472u5/logs/debug-core.log"}
+{"time":"2024-11-17T19:00:29.411635303+01:00","level":"INFO","msg":"created new stream","id":"7cs472u5"}
+{"time":"2024-11-17T19:00:29.411678891+01:00","level":"INFO","msg":"stream: started","id":"7cs472u5"}
+{"time":"2024-11-17T19:00:29.411709922+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7cs472u5"}}
+{"time":"2024-11-17T19:00:29.411758949+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7cs472u5"}}
+{"time":"2024-11-17T19:00:29.411736124+01:00","level":"INFO","msg":"sender: started","stream_id":"7cs472u5"}
+{"time":"2024-11-17T19:00:29.714594017+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T19:00:30.002088358+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T19:00:30.029739624+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T19:00:30.037916017+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T19:00:30.054336214+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T19:00:30.055999981+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T19:00:30.084560093+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T19:50:06.197908875+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T19:50:06.237522687+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T19:50:06.285215887+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T19:50:06.288378106+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T19:50:07.287995944+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.424862902,"progress":"546.2KB/546.2KB"}],"total_operations":1}}
+{"time":"2024-11-17T19:50:07.61763328+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T19:50:08.930084532+01:00","level":"INFO","msg":"stream: closing","id":"7cs472u5"}
+{"time":"2024-11-17T19:50:08.930116782+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"7cs472u5"}}
+{"time":"2024-11-17T19:50:08.930198672+01:00","level":"INFO","msg":"sender: closed","stream_id":"7cs472u5"}
+{"time":"2024-11-17T19:50:08.930187441+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7cs472u5"}}
+{"time":"2024-11-17T19:50:08.930345054+01:00","level":"INFO","msg":"stream: closed","id":"7cs472u5"}

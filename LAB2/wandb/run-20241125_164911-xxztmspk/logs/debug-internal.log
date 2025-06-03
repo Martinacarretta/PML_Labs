@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:49:11.899805026+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:49:11.899836911+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_164911-xxztmspk/logs/debug-core.log"}
+{"time":"2024-11-25T16:49:12.19838469+01:00","level":"INFO","msg":"created new stream","id":"xxztmspk"}
+{"time":"2024-11-25T16:49:12.198473634+01:00","level":"INFO","msg":"stream: started","id":"xxztmspk"}
+{"time":"2024-11-25T16:49:12.198531121+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xxztmspk"}}
+{"time":"2024-11-25T16:49:12.198560892+01:00","level":"INFO","msg":"sender: started","stream_id":"xxztmspk"}
+{"time":"2024-11-25T16:49:12.198599086+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xxztmspk"}}
+{"time":"2024-11-25T16:49:12.527032345+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:50:45.043779528+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:50:45.045874247+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:50:45.992054843+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:50:46.044817189+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.052418467}],"total_operations":1}}
+{"time":"2024-11-25T16:50:47.251837511+01:00","level":"INFO","msg":"stream: closing","id":"xxztmspk"}
+{"time":"2024-11-25T16:50:47.251939006+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xxztmspk"}}
+{"time":"2024-11-25T16:50:47.251988717+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xxztmspk"}}
+{"time":"2024-11-25T16:50:47.25204128+01:00","level":"INFO","msg":"sender: closed","stream_id":"xxztmspk"}
+{"time":"2024-11-25T16:50:47.252206064+01:00","level":"INFO","msg":"stream: closed","id":"xxztmspk"}

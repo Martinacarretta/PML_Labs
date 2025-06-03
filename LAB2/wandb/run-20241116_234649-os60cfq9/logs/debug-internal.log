@@ -1,0 +1,20 @@
+{"time":"2024-11-16T23:46:49.384051895+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-16T23:46:49.384194611+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_234649-os60cfq9/logs/debug-core.log"}
+{"time":"2024-11-16T23:46:50.073100987+01:00","level":"INFO","msg":"created new stream","id":"os60cfq9"}
+{"time":"2024-11-16T23:46:50.074072128+01:00","level":"INFO","msg":"stream: started","id":"os60cfq9"}
+{"time":"2024-11-16T23:46:50.074073383+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"os60cfq9"}}
+{"time":"2024-11-16T23:46:50.074488002+01:00","level":"INFO","msg":"sender: started","stream_id":"os60cfq9"}
+{"time":"2024-11-16T23:46:50.074494328+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"os60cfq9"}}
+{"time":"2024-11-16T23:46:50.868995064+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-16T23:46:53.197938388+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:46:59.138559913+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:46:59.149340645+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:47:00.905961282+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:47:00.912326649+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:47:02.900604816+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T00:22:30.504176212+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T00:22:31.168780028+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T00:22:31.412955125+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T00:22:31.431505308+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T00:22:32.43058095+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.47150618},{"desc":"uploading output.log","runtime_seconds":0.276734768,"progress":"684.5KB/684.5KB"}],"total_operations":2}}
+{"time":"2024-11-17T00:22:32.929254703+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

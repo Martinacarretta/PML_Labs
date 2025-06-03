@@ -1,0 +1,21 @@
+{"time":"2024-11-21T19:58:38.397696778+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-21T19:58:38.397784498+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241121_195838-syayzhp0/logs/debug-core.log"}
+{"time":"2024-11-21T19:58:38.848517286+01:00","level":"INFO","msg":"created new stream","id":"syayzhp0"}
+{"time":"2024-11-21T19:58:38.848582368+01:00","level":"INFO","msg":"stream: started","id":"syayzhp0"}
+{"time":"2024-11-21T19:58:38.848636575+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"syayzhp0"}}
+{"time":"2024-11-21T19:58:38.848810066+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"syayzhp0"}}
+{"time":"2024-11-21T19:58:38.848850464+01:00","level":"INFO","msg":"sender: started","stream_id":"syayzhp0"}
+{"time":"2024-11-21T19:58:39.216510968+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-21T19:58:40.239174938+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-21T19:58:43.510614729+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-21T20:11:47.770975974+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-21T20:31:36.002689227+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-21T20:31:36.01618433+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-21T20:31:36.036134455+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-21T20:31:36.82636035+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-21T20:31:37.018236838+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.190826841}],"total_operations":1}}
+{"time":"2024-11-21T20:31:38.098207189+01:00","level":"INFO","msg":"stream: closing","id":"syayzhp0"}
+{"time":"2024-11-21T20:31:38.098262132+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"syayzhp0"}}
+{"time":"2024-11-21T20:31:38.098461412+01:00","level":"INFO","msg":"sender: closed","stream_id":"syayzhp0"}
+{"time":"2024-11-21T20:31:38.098418031+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"syayzhp0"}}
+{"time":"2024-11-21T20:31:38.098743436+01:00","level":"INFO","msg":"stream: closed","id":"syayzhp0"}

@@ -1,0 +1,11 @@
+>>> Training starts at  2024-11-20 20:35:32.815615
+Filling replay buffer...
+Training...
+Episode 758 Mean Rewards 201.71 Epsilon 0.01		10587426148968			
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3904: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/_methods.py:147: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Environment solved in 758 episodes!
+>>> Training completed at  2024-11-20 20:58:35.887863
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

@@ -1,0 +1,21 @@
+{"time":"2024-11-22T02:11:50.263173008+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-22T02:11:50.263580751+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241122_021150-ybrut9bp/logs/debug-core.log"}
+{"time":"2024-11-22T02:11:50.694463868+01:00","level":"INFO","msg":"created new stream","id":"ybrut9bp"}
+{"time":"2024-11-22T02:11:50.700217129+01:00","level":"INFO","msg":"stream: started","id":"ybrut9bp"}
+{"time":"2024-11-22T02:11:50.699656411+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ybrut9bp"}}
+{"time":"2024-11-22T02:11:50.702602134+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ybrut9bp"}}
+{"time":"2024-11-22T02:11:50.703176103+01:00","level":"INFO","msg":"sender: started","stream_id":"ybrut9bp"}
+{"time":"2024-11-22T02:11:51.037973073+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-22T02:11:52.093756416+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-22T02:11:55.331396962+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-22T05:25:54.637027522+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-22T05:25:54.672256442+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-22T05:25:54.688505141+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-22T05:25:54.707351147+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-22T05:25:55.690869835+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-22T05:25:55.690929263+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-22T05:25:57.179140091+01:00","level":"INFO","msg":"stream: closing","id":"ybrut9bp"}
+{"time":"2024-11-22T05:25:57.179229217+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ybrut9bp"}}
+{"time":"2024-11-22T05:25:57.179327775+01:00","level":"INFO","msg":"sender: closed","stream_id":"ybrut9bp"}
+{"time":"2024-11-22T05:25:57.179302849+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ybrut9bp"}}
+{"time":"2024-11-22T05:25:57.179739263+01:00","level":"INFO","msg":"stream: closed","id":"ybrut9bp"}

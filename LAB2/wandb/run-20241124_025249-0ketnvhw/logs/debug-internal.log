@@ -1,0 +1,21 @@
+{"time":"2024-11-24T02:52:49.443764443+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T02:52:49.443859599+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_025249-0ketnvhw/logs/debug-core.log"}
+{"time":"2024-11-24T02:52:49.872506002+01:00","level":"INFO","msg":"created new stream","id":"0ketnvhw"}
+{"time":"2024-11-24T02:52:49.874639826+01:00","level":"INFO","msg":"stream: started","id":"0ketnvhw"}
+{"time":"2024-11-24T02:52:49.875054847+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"0ketnvhw"}}
+{"time":"2024-11-24T02:52:49.875133747+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"0ketnvhw"}}
+{"time":"2024-11-24T02:52:49.875719841+01:00","level":"INFO","msg":"sender: started","stream_id":"0ketnvhw"}
+{"time":"2024-11-24T02:52:50.33034742+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T02:52:51.655982488+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T02:52:54.029865067+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T02:54:27.285771295+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T02:54:36.859463462+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T02:54:36.871426614+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T02:54:36.872880005+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T02:54:37.875221873+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.695860709,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.037336385,"progress":"1021B/1021B"}]},{"desc":"uploading output.log","runtime_seconds":0.505627796,"progress":"503.4KB/503.4KB"}],"total_operations":2}}
+{"time":"2024-11-24T02:54:38.978190749+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T02:54:40.247426365+01:00","level":"INFO","msg":"stream: closing","id":"0ketnvhw"}
+{"time":"2024-11-24T02:54:40.247467572+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"0ketnvhw"}}
+{"time":"2024-11-24T02:54:40.247493132+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"0ketnvhw"}}
+{"time":"2024-11-24T02:54:40.247576691+01:00","level":"INFO","msg":"sender: closed","stream_id":"0ketnvhw"}
+{"time":"2024-11-24T02:54:40.247670426+01:00","level":"INFO","msg":"stream: closed","id":"0ketnvhw"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-23T00:55:38.769296708+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T00:55:38.769325025+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_005538-p4ogmtdf/logs/debug-core.log"}
+{"time":"2024-11-23T00:55:39.113389833+01:00","level":"INFO","msg":"created new stream","id":"p4ogmtdf"}
+{"time":"2024-11-23T00:55:39.114084534+01:00","level":"INFO","msg":"stream: started","id":"p4ogmtdf"}
+{"time":"2024-11-23T00:55:39.114653539+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"p4ogmtdf"}}
+{"time":"2024-11-23T00:55:39.114761717+01:00","level":"INFO","msg":"sender: started","stream_id":"p4ogmtdf"}
+{"time":"2024-11-23T00:55:39.11509616+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"p4ogmtdf"}}
+{"time":"2024-11-23T00:55:39.408057214+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T00:59:47.278085695+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T00:59:47.286116612+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T00:59:48.285397576+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.682807596}],"total_operations":1}}
+{"time":"2024-11-23T00:59:49.595349643+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T00:59:51.250839471+01:00","level":"INFO","msg":"stream: closing","id":"p4ogmtdf"}
+{"time":"2024-11-23T00:59:51.250922669+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"p4ogmtdf"}}
+{"time":"2024-11-23T00:59:51.251009297+01:00","level":"INFO","msg":"sender: closed","stream_id":"p4ogmtdf"}
+{"time":"2024-11-23T00:59:51.251002088+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"p4ogmtdf"}}
+{"time":"2024-11-23T00:59:51.251220806+01:00","level":"INFO","msg":"stream: closed","id":"p4ogmtdf"}

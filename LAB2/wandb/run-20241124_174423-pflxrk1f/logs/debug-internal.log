@@ -1,0 +1,17 @@
+{"time":"2024-11-24T17:44:23.316616266+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T17:44:23.316724921+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_174423-pflxrk1f/logs/debug-core.log"}
+{"time":"2024-11-24T17:44:23.692937692+01:00","level":"INFO","msg":"created new stream","id":"pflxrk1f"}
+{"time":"2024-11-24T17:44:23.69304524+01:00","level":"INFO","msg":"stream: started","id":"pflxrk1f"}
+{"time":"2024-11-24T17:44:23.693185914+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pflxrk1f"}}
+{"time":"2024-11-24T17:44:23.693325607+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pflxrk1f"}}
+{"time":"2024-11-24T17:44:23.693445914+01:00","level":"INFO","msg":"sender: started","stream_id":"pflxrk1f"}
+{"time":"2024-11-24T17:44:24.025805083+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T17:54:56.955726545+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T17:54:56.956610346+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T17:54:57.891571252+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T17:54:57.957833616+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.065893842}],"total_operations":1}}
+{"time":"2024-11-24T17:54:59.165859354+01:00","level":"INFO","msg":"stream: closing","id":"pflxrk1f"}
+{"time":"2024-11-24T17:54:59.16591783+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"pflxrk1f"}}
+{"time":"2024-11-24T17:54:59.16603085+01:00","level":"INFO","msg":"sender: closed","stream_id":"pflxrk1f"}
+{"time":"2024-11-24T17:54:59.165987031+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"pflxrk1f"}}
+{"time":"2024-11-24T17:54:59.166244695+01:00","level":"INFO","msg":"stream: closed","id":"pflxrk1f"}

@@ -1,0 +1,25 @@
+{"time":"2024-11-16T17:09:10.628787026+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-16T17:09:10.628833097+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_170910-mawwca37/logs/debug-core.log"}
+{"time":"2024-11-16T17:09:11.144471656+01:00","level":"INFO","msg":"created new stream","id":"mawwca37"}
+{"time":"2024-11-16T17:09:11.145030387+01:00","level":"INFO","msg":"stream: started","id":"mawwca37"}
+{"time":"2024-11-16T17:09:11.145204868+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mawwca37"}}
+{"time":"2024-11-16T17:09:11.145518338+01:00","level":"INFO","msg":"sender: started","stream_id":"mawwca37"}
+{"time":"2024-11-16T17:09:11.145260278+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mawwca37"}}
+{"time":"2024-11-16T17:09:11.486032074+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-16T17:09:12.251460535+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T17:09:12.974904846+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T17:09:12.979283609+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T17:09:14.095151898+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T17:09:14.108827628+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T17:09:15.239208253+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T17:35:06.217391728+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T17:35:06.300645339+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T17:35:06.411837733+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-16T17:35:06.41934283+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-16T17:35:07.419009561+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.494780525,"progress":"803.8KB/803.8KB"}],"total_operations":1}}
+{"time":"2024-11-16T17:35:07.749554306+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-16T17:35:09.292351796+01:00","level":"INFO","msg":"stream: closing","id":"mawwca37"}
+{"time":"2024-11-16T17:35:09.292413419+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mawwca37"}}
+{"time":"2024-11-16T17:35:09.292551578+01:00","level":"INFO","msg":"sender: closed","stream_id":"mawwca37"}
+{"time":"2024-11-16T17:35:09.292532981+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mawwca37"}}
+{"time":"2024-11-16T17:35:09.292923619+01:00","level":"INFO","msg":"stream: closed","id":"mawwca37"}

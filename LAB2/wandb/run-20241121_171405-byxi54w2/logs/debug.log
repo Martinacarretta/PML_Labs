@@ -1,0 +1,98 @@
+2024-11-21 17:14:05,584 INFO    MainThread:402 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-21 17:14:05,584 INFO    MainThread:402 [wandb_setup.py:_flush():79] Configure stats pid to 402
+2024-11-21 17:14:05,584 INFO    MainThread:402 [wandb_setup.py:_flush():79] Loading settings from /home/martina/.config/wandb/settings
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_setup.py:_flush():79] Loading settings from /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/settings
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_init.py:_log_setup():534] Logging user logs to /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241121_171405-byxi54w2/logs/debug.log
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_init.py:_log_setup():535] Logging internal logs to /home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241121_171405-byxi54w2/logs/debug-internal.log
+2024-11-21 17:14:05,585 INFO    MainThread:402 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f512dfce440>
+2024-11-21 17:14:05,586 INFO    MainThread:402 [wandb_init.py:init():621] calling init triggers
+2024-11-21 17:14:05,586 INFO    MainThread:402 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'lr': 0.001, 'MEMORY_SIZE': 100000, 'MAX_EPISODES': 5000, 'EPSILON': 0.99, 'EPSILON_DECAY': 0.995, 'GAMMA': 0.99, 'BATCH_SIZE': 64, 'BURN_IN': 1000, 'DNN_UPD': 1, 'DNN_SYNC': 2500}
+2024-11-21 17:14:05,586 INFO    MainThread:402 [wandb_init.py:init():671] starting backend
+2024-11-21 17:14:05,586 INFO    MainThread:402 [wandb_init.py:init():675] sending inform_init request
+2024-11-21 17:14:05,589 INFO    MainThread:402 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-21 17:14:05,589 INFO    MainThread:402 [wandb_init.py:init():688] backend started and connected
+2024-11-21 17:14:05,594 INFO    MainThread:402 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-11-21 17:14:05,599 INFO    MainThread:402 [wandb_init.py:init():783] updated telemetry
+2024-11-21 17:14:05,847 INFO    MainThread:402 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-11-21 17:14:34,158 INFO    Thread-4 (wrapped_target):402 [retry.py:__call__():172] Retry attempt failed:
+Traceback (most recent call last):
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1099, in _validate_conn
+    conn.connect()
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connection.py", line 616, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x7f512d5154e0>: Failed to resolve 'api.wandb.ai' ([Errno -3] Temporary failure in name resolution)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/martina/.local/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+  File "/home/martina/.local/lib/python3.10/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f512d5154e0>: Failed to resolve 'api.wandb.ai' ([Errno -3] Temporary failure in name resolution)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 354, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/lib/gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+  File "/home/martina/.local/lib/python3.10/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/martina/.local/lib/python3.10/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f512d5154e0>: Failed to resolve 'api.wandb.ai' ([Errno -3] Temporary failure in name resolution)"))
+2024-11-21 17:14:52,486 WARNING MainThread:402 [wandb_init.py:init():1260] interrupted
+Traceback (most recent call last):
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1256, in init
+    return wi.init()
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 819, in init
+    result = run_init_handle.wait(
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/home/martina/.local/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/usr/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/lib/python3.10/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt

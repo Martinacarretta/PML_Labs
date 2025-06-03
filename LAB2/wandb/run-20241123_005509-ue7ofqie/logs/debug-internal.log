@@ -1,0 +1,19 @@
+{"time":"2024-11-23T00:55:09.835989183+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T00:55:09.836535904+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_005509-ue7ofqie/logs/debug-core.log"}
+{"time":"2024-11-23T00:55:10.256230352+01:00","level":"INFO","msg":"created new stream","id":"ue7ofqie"}
+{"time":"2024-11-23T00:55:10.256449242+01:00","level":"INFO","msg":"stream: started","id":"ue7ofqie"}
+{"time":"2024-11-23T00:55:10.256752727+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ue7ofqie"}}
+{"time":"2024-11-23T00:55:10.256862041+01:00","level":"INFO","msg":"sender: started","stream_id":"ue7ofqie"}
+{"time":"2024-11-23T00:55:10.257094266+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ue7ofqie"}}
+{"time":"2024-11-23T00:55:10.687670059+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T00:55:11.30651376+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-23T00:55:15.080841267+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-23T00:55:15.225694924+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T00:55:15.228335763+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T00:55:16.226601931+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.820481648,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.056113441,"progress":"763B/763B"},{"desc":"requirements.frozen.txt","runtime_seconds":0.056054858,"progress":"4.5KB/4.5KB"}]}],"total_operations":1}}
+{"time":"2024-11-23T00:55:17.735795252+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T00:55:19.005204019+01:00","level":"INFO","msg":"stream: closing","id":"ue7ofqie"}
+{"time":"2024-11-23T00:55:19.005271902+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ue7ofqie"}}
+{"time":"2024-11-23T00:55:19.005311277+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ue7ofqie"}}
+{"time":"2024-11-23T00:55:19.005344999+01:00","level":"INFO","msg":"sender: closed","stream_id":"ue7ofqie"}
+{"time":"2024-11-23T00:55:19.005413674+01:00","level":"INFO","msg":"stream: closed","id":"ue7ofqie"}

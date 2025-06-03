@@ -1,0 +1,82 @@
+{"time":"2024-11-16T21:13:39.414840691+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-16T21:13:39.414897969+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_211339-n7q5djru/logs/debug-core.log"}
+{"time":"2024-11-16T21:13:39.942675697+01:00","level":"INFO","msg":"created new stream","id":"n7q5djru"}
+{"time":"2024-11-16T21:13:39.942738379+01:00","level":"INFO","msg":"stream: started","id":"n7q5djru"}
+{"time":"2024-11-16T21:13:39.942827813+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"n7q5djru"}}
+{"time":"2024-11-16T21:13:39.942906251+01:00","level":"INFO","msg":"sender: started","stream_id":"n7q5djru"}
+{"time":"2024-11-16T21:13:39.942972024+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"n7q5djru"}}
+{"time":"2024-11-16T21:13:40.286830674+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-16T21:13:41.006333977+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T21:13:44.74684113+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T21:13:44.757765766+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T21:13:46.665941506+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T21:13:46.669445325+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T21:13:47.26187619+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:44:33.318669689+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:44:54.852920664+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:44:54.908752384+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:45:21.990111996+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:45:22.017241831+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-16T23:45:26.053702241+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/martinacarrettab/PLAB2_LunaLander/n7q5djru/file_stream"}
+{"time":"2024-11-16T23:45:26.06449807+01:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/martinacarrettab/PLAB2_LunaLander/n7q5djru/file_stream: {\"error\":\"run PLAB2_LunaLander/n7q5djru not found while streaming file\"}"}
+{"time":"2024-11-16T23:45:29.222255424+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-16T23:45:29.54656215+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-16T23:45:29.582090199+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-16T23:45:29.670300782+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:45:30.554437281+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.024862647,"error_status":"retrying HTTP 409 Conflict"}],"total_operations":1}}
+{"time":"2024-11-16T23:45:31.811514106+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:45:36.129574722+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:45:45.968256629+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:46:04.119359807+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:46:43.270873495+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:47:43.406311917+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:48:43.551249007+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:49:43.687937088+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:50:43.827347685+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:51:43.968581408+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:52:44.098039811+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:53:44.239523902+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:54:44.386042563+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:55:29.568216179+01:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000208693,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:33080\")"}
+{"time":"2024-11-16T23:55:44.536497932+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:56:44.665143609+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:57:44.796250011+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:58:44.929591187+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-16T23:59:45.074715247+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:00:45.226187765+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:01:45.358979484+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:01:45.372430463+01:00","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s)"}
+{"time":"2024-11-17T00:01:45.392082098+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":975.869403354,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:33080\")"}
+{"time":"2024-11-17T00:01:45.548815845+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:01:45.600092671+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:01:45.602176723+01:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run PLAB2_LunaLander/n7q5djru not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-11-17T00:01:47.869313136+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:01:52.063552574+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:02:01.08512432+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:02:19.89169286+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:02:55.393744321+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:03:55.53754359+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:04:55.667749028+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:05:55.794850811+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:06:55.928630491+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:07:56.063177324+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:08:56.200458117+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:09:56.346939526+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:10:56.484655755+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:11:45.454576364+01:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000467452,"work":"WorkRecord(*service_go_proto.Request_Defer); Control(local:true  always_send:true)"}
+{"time":"2024-11-17T00:11:56.614524808+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:12:56.75472181+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:13:56.882875029+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:14:57.02012727+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:15:57.230011945+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:16:57.368025427+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:17:57.499753403+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:17:57.512380107+01:00","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s)"}
+{"time":"2024-11-17T00:17:57.560500045+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":972.135162877,"work":"WorkRecord(*service_go_proto.Request_Defer); Control(local:true  always_send:true)"}
+{"time":"2024-11-17T00:17:57.735905541+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:17:57.73625767+01:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run PLAB2_LunaLander/n7q5djru not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-11-17T00:17:58.043392258+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:17:58.073664108+01:00","level":"ERROR","msg":"sender: failed to save job artifact: gql.UseArtifact: returned error 404 Not Found: {\"errors\":[{\"message\":\"failed to find run PLAB2_LunaLander/n7q5djru\",\"path\":[\"useArtifact\"]}],\"data\":{\"useArtifact\":null}}"}
+{"time":"2024-11-17T00:17:58.232652629+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T00:17:58.310379128+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-17T00:17:58.310566029+01:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run PLAB2_LunaLander/n7q5djru not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}

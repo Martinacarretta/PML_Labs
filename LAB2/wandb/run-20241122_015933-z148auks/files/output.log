@@ -1,0 +1,21 @@
+>>> Training starts at  2024-11-22 01:59:34.467521
+Trajectory 50	Average Score: 392.86
+Trajectory 100	Average Score: 259.76
+Trajectory 150	Average Score: 296.10
+Trajectory 200	Average Score: 228.16
+Trajectory 250	Average Score: 242.12
+Trajectory 300	Average Score: 300.06
+Trajectory 350	Average Score: 370.66
+Trajectory 400	Average Score: 345.16
+Trajectory 450	Average Score: 247.90
+Trajectory 500	Average Score: 224.92
+Trajectory 550	Average Score: 376.90
+Trajectory 600	Average Score: 384.76
+Trajectory 650	Average Score: 309.92
+Trajectory 700	Average Score: 228.78
+Trajectory 750	Average Score: 286.30
+Trajectory 800	Average Score: 133.64
+Trajectory 850	Average Score: 138.52
+Trajectory 900	Average Score: 281.76
+Trajectory 950	Average Score: 413.22
+>>> Training completed at  2024-11-22 02:00:51.849916

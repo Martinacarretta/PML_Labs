@@ -1,0 +1,22 @@
+{"time":"2024-11-25T15:47:12.608687638+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T15:47:12.609172271+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_154712-ht3onpq6/logs/debug-core.log"}
+{"time":"2024-11-25T15:47:13.020686723+01:00","level":"INFO","msg":"created new stream","id":"ht3onpq6"}
+{"time":"2024-11-25T15:47:13.021001874+01:00","level":"INFO","msg":"stream: started","id":"ht3onpq6"}
+{"time":"2024-11-25T15:47:13.024035733+01:00","level":"INFO","msg":"sender: started","stream_id":"ht3onpq6"}
+{"time":"2024-11-25T15:47:13.023300218+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ht3onpq6"}}
+{"time":"2024-11-25T15:47:13.023302997+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ht3onpq6"}}
+{"time":"2024-11-25T15:47:13.469505587+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T15:47:14.159891861+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T15:47:15.637819117+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T15:57:58.958664454+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.26.75.100:48398->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-25T16:00:00.86107658+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:00:39.322292533+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:00:39.371083828+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:00:39.380201708+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:00:40.341911974+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.609190265}],"total_operations":1}}
+{"time":"2024-11-25T16:00:42.061976804+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:00:43.505438748+01:00","level":"INFO","msg":"stream: closing","id":"ht3onpq6"}
+{"time":"2024-11-25T16:00:43.505524002+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ht3onpq6"}}
+{"time":"2024-11-25T16:00:43.505760096+01:00","level":"INFO","msg":"sender: closed","stream_id":"ht3onpq6"}
+{"time":"2024-11-25T16:00:43.505714807+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ht3onpq6"}}
+{"time":"2024-11-25T16:00:43.505944709+01:00","level":"INFO","msg":"stream: closed","id":"ht3onpq6"}

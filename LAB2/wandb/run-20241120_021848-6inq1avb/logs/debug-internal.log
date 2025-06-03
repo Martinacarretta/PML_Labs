@@ -1,0 +1,20 @@
+{"time":"2024-11-20T02:18:50.852556781+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:18:50.852623539+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_021848-6inq1avb/logs/debug-core.log"}
+{"time":"2024-11-20T02:18:51.245695498+01:00","level":"INFO","msg":"created new stream","id":"6inq1avb"}
+{"time":"2024-11-20T02:18:51.245838834+01:00","level":"INFO","msg":"stream: started","id":"6inq1avb"}
+{"time":"2024-11-20T02:18:51.24595043+01:00","level":"INFO","msg":"sender: started","stream_id":"6inq1avb"}
+{"time":"2024-11-20T02:18:51.245949027+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6inq1avb"}}
+{"time":"2024-11-20T02:18:51.246007057+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6inq1avb"}}
+{"time":"2024-11-20T02:18:52.038288787+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:20:04.823952046+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:20:04.825189232+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:20:05.247766835+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-20T02:20:05.778072814+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.953760152,"error_status":"retrying HTTP 409 Conflict"}],"total_operations":1}}
+{"time":"2024-11-20T02:20:07.65784837+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-20T02:20:07.794517235+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/martinacarrettab/PLAB2_LunaLander/6inq1avb/file_stream"}
+{"time":"2024-11-20T02:20:07.795381792+01:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/martinacarrettab/PLAB2_LunaLander/6inq1avb/file_stream: {\"error\":\"run PLAB2_LunaLander/6inq1avb not found while streaming file\"}"}
+{"time":"2024-11-20T02:20:12.72304547+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-20T02:20:22.380360297+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-20T02:20:42.395621067+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-20T02:21:05.892631172+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":61.06830623,"error_status":"retrying HTTP 409 Conflict"}],"total_operations":1}}
+{"time":"2024-11-20T02:21:15.184455867+01:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

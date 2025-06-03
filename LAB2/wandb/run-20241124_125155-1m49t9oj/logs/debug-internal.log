@@ -1,0 +1,17 @@
+{"time":"2024-11-24T12:51:55.152950714+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T12:51:55.152986531+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_125155-1m49t9oj/logs/debug-core.log"}
+{"time":"2024-11-24T12:51:55.364603319+01:00","level":"INFO","msg":"created new stream","id":"1m49t9oj"}
+{"time":"2024-11-24T12:51:55.364677775+01:00","level":"INFO","msg":"stream: started","id":"1m49t9oj"}
+{"time":"2024-11-24T12:51:55.364765814+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1m49t9oj"}}
+{"time":"2024-11-24T12:51:55.3648217+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"1m49t9oj"}}
+{"time":"2024-11-24T12:51:55.364877158+01:00","level":"INFO","msg":"sender: started","stream_id":"1m49t9oj"}
+{"time":"2024-11-24T12:51:55.601568066+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T13:00:55.420902286+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T13:00:55.422275939+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T13:00:56.232647976+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T13:00:56.421911751+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-24T13:00:57.460443041+01:00","level":"INFO","msg":"stream: closing","id":"1m49t9oj"}
+{"time":"2024-11-24T13:00:57.460485752+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"1m49t9oj"}}
+{"time":"2024-11-24T13:00:57.46053696+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"1m49t9oj"}}
+{"time":"2024-11-24T13:00:57.460614125+01:00","level":"INFO","msg":"sender: closed","stream_id":"1m49t9oj"}
+{"time":"2024-11-24T13:00:57.460623445+01:00","level":"INFO","msg":"stream: closed","id":"1m49t9oj"}

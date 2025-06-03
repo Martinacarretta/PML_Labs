@@ -1,0 +1,17 @@
+{"time":"2024-11-23T21:39:07.857548082+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T21:39:07.857566958+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_213907-q5tuqoqk/logs/debug-core.log"}
+{"time":"2024-11-23T21:39:08.261080963+01:00","level":"INFO","msg":"created new stream","id":"q5tuqoqk"}
+{"time":"2024-11-23T21:39:08.261165738+01:00","level":"INFO","msg":"stream: started","id":"q5tuqoqk"}
+{"time":"2024-11-23T21:39:08.26121976+01:00","level":"INFO","msg":"sender: started","stream_id":"q5tuqoqk"}
+{"time":"2024-11-23T21:39:08.261237222+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"q5tuqoqk"}}
+{"time":"2024-11-23T21:39:08.261228608+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"q5tuqoqk"}}
+{"time":"2024-11-23T21:39:08.529609193+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T21:41:47.951325679+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:41:47.952102384+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:41:48.721296339+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:41:48.952889691+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading console logs","runtime_seconds":0.018515978}],"total_operations":1}}
+{"time":"2024-11-23T21:41:50.166306141+01:00","level":"INFO","msg":"stream: closing","id":"q5tuqoqk"}
+{"time":"2024-11-23T21:41:50.166361419+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"q5tuqoqk"}}
+{"time":"2024-11-23T21:41:50.166380298+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"q5tuqoqk"}}
+{"time":"2024-11-23T21:41:50.166439718+01:00","level":"INFO","msg":"sender: closed","stream_id":"q5tuqoqk"}
+{"time":"2024-11-23T21:41:50.166446793+01:00","level":"INFO","msg":"stream: closed","id":"q5tuqoqk"}

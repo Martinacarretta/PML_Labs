@@ -1,0 +1,23 @@
+{"time":"2024-11-26T21:25:44.464511374+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-26T21:25:44.464641324+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241126_212544-gngqukid/logs/debug-core.log"}
+{"time":"2024-11-26T21:25:44.846923762+01:00","level":"INFO","msg":"created new stream","id":"gngqukid"}
+{"time":"2024-11-26T21:25:44.847373937+01:00","level":"INFO","msg":"stream: started","id":"gngqukid"}
+{"time":"2024-11-26T21:25:44.847552463+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gngqukid"}}
+{"time":"2024-11-26T21:25:44.847779618+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gngqukid"}}
+{"time":"2024-11-26T21:25:44.847688699+01:00","level":"INFO","msg":"sender: started","stream_id":"gngqukid"}
+{"time":"2024-11-26T21:25:45.266611022+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T21:25:45.924966765+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:25:46.577593516+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:25:46.715173037+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:25:52.8282993+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:26:11.547936718+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:26:25.435572724+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:26:25.441786465+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T21:26:25.445186751+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T21:26:26.146831176+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T21:26:26.37369398+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-26T21:26:27.416843985+01:00","level":"INFO","msg":"stream: closing","id":"gngqukid"}
+{"time":"2024-11-26T21:26:27.416931497+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"gngqukid"}}
+{"time":"2024-11-26T21:26:27.416974974+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gngqukid"}}
+{"time":"2024-11-26T21:26:27.417019293+01:00","level":"INFO","msg":"sender: closed","stream_id":"gngqukid"}
+{"time":"2024-11-26T21:26:27.417222175+01:00","level":"INFO","msg":"stream: closed","id":"gngqukid"}

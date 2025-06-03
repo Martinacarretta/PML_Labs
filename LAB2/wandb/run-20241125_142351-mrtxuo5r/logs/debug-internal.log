@@ -1,0 +1,17 @@
+{"time":"2024-11-25T14:23:51.357660206+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T14:23:51.357685009+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_142351-mrtxuo5r/logs/debug-core.log"}
+{"time":"2024-11-25T14:23:51.565581005+01:00","level":"INFO","msg":"created new stream","id":"mrtxuo5r"}
+{"time":"2024-11-25T14:23:51.565620983+01:00","level":"INFO","msg":"stream: started","id":"mrtxuo5r"}
+{"time":"2024-11-25T14:23:51.565659461+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mrtxuo5r"}}
+{"time":"2024-11-25T14:23:51.565704773+01:00","level":"INFO","msg":"sender: started","stream_id":"mrtxuo5r"}
+{"time":"2024-11-25T14:23:51.565736436+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mrtxuo5r"}}
+{"time":"2024-11-25T14:23:51.940554996+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T14:32:55.62560014+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T14:32:55.626537235+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T14:32:56.62677662+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.410882915}],"total_operations":1}}
+{"time":"2024-11-25T14:32:56.779960381+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T14:32:58.060756666+01:00","level":"INFO","msg":"stream: closing","id":"mrtxuo5r"}
+{"time":"2024-11-25T14:32:58.060863141+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mrtxuo5r"}}
+{"time":"2024-11-25T14:32:58.060891729+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mrtxuo5r"}}
+{"time":"2024-11-25T14:32:58.060956638+01:00","level":"INFO","msg":"sender: closed","stream_id":"mrtxuo5r"}
+{"time":"2024-11-25T14:32:58.061002774+01:00","level":"INFO","msg":"stream: closed","id":"mrtxuo5r"}

@@ -1,0 +1,9 @@
+{"time":"2024-11-24T16:03:55.811426889+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T16:03:55.811456308+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_160355-3vom96cq/logs/debug-core.log"}
+{"time":"2024-11-24T16:03:56.021706769+01:00","level":"INFO","msg":"created new stream","id":"3vom96cq"}
+{"time":"2024-11-24T16:03:56.021773056+01:00","level":"INFO","msg":"stream: started","id":"3vom96cq"}
+{"time":"2024-11-24T16:03:56.021814507+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3vom96cq"}}
+{"time":"2024-11-24T16:03:56.021881106+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3vom96cq"}}
+{"time":"2024-11-24T16:03:56.021943402+01:00","level":"INFO","msg":"sender: started","stream_id":"3vom96cq"}
+{"time":"2024-11-24T16:03:56.294934388+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T16:04:15.763428672+01:00","level":"INFO","msg":"Pausing system monitor"}

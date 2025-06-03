@@ -1,0 +1,21 @@
+/tmp/ipykernel_13320/4293651450.py:73: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  state_batch = torch.tensor(states, dtype=torch.float32)
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 50	Mean Reward (last 100): -239.67
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 100	Mean Reward (last 100): -205.10
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 150	Mean Reward (last 100): -159.82
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 200	Mean Reward (last 100): -136.67
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 250	Mean Reward (last 100): -134.28
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 300	Mean Reward (last 100): -156.17
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 350	Mean Reward (last 100): -169.86
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 400	Mean Reward (last 100): -153.76
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 450	Mean Reward (last 100): -125.76
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 500	Mean Reward (last 100): -110.18
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 550	Mean Reward (last 100): -75.55
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 600	Mean Reward (last 100): -48.91
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 650	Mean Reward (last 100): -18.01
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 700	Mean Reward (last 100): 6.76
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 750	Mean Reward (last 100): 4.28
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 800	Mean Reward (last 100): 12.58
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 850	Mean Reward (last 100): 16.44
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 900	Mean Reward (last 100): 18.37
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 1000}, Episode 950	Mean Reward (last 100): 24.32

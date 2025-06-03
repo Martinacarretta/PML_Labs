@@ -1,0 +1,1 @@
+{"Experience replay size":100000,"_runtime":1578.290474722,"_wandb":{"runtime":1578},"_step":268067,"epsilon":1e-05,"reward":-83.17949526773731,"Mean reward bound":230,"_timestamp":1.731783414078583e+09,"Learning rate":0.0002,"Eps decay":0.995,"reward_100":-96.09302545753876,"Gamma":0.99,"Sync target net":10,"Eps start":1,"Batch size":64,"Eps min":1e-05}

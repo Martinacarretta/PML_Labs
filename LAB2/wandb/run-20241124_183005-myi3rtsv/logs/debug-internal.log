@@ -1,0 +1,17 @@
+{"time":"2024-11-24T18:30:05.467428215+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T18:30:05.467478633+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_183005-myi3rtsv/logs/debug-core.log"}
+{"time":"2024-11-24T18:30:05.704412963+01:00","level":"INFO","msg":"created new stream","id":"myi3rtsv"}
+{"time":"2024-11-24T18:30:05.704477547+01:00","level":"INFO","msg":"stream: started","id":"myi3rtsv"}
+{"time":"2024-11-24T18:30:05.704560438+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"myi3rtsv"}}
+{"time":"2024-11-24T18:30:05.7046079+01:00","level":"INFO","msg":"sender: started","stream_id":"myi3rtsv"}
+{"time":"2024-11-24T18:30:05.704643844+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"myi3rtsv"}}
+{"time":"2024-11-24T18:30:05.969602006+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T18:38:18.500868218+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T18:38:18.501674291+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T18:38:19.50252771+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.600541402}],"total_operations":1}}
+{"time":"2024-11-24T18:38:19.672124832+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T18:38:20.949075868+01:00","level":"INFO","msg":"stream: closing","id":"myi3rtsv"}
+{"time":"2024-11-24T18:38:20.949214924+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"myi3rtsv"}}
+{"time":"2024-11-24T18:38:20.949260995+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"myi3rtsv"}}
+{"time":"2024-11-24T18:38:20.949282391+01:00","level":"INFO","msg":"sender: closed","stream_id":"myi3rtsv"}
+{"time":"2024-11-24T18:38:20.949389913+01:00","level":"INFO","msg":"stream: closed","id":"myi3rtsv"}

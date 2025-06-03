@@ -1,0 +1,21 @@
+{"time":"2024-11-17T19:50:09.014389843+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-17T19:50:09.014423009+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241117_195008-zunyfaqv/logs/debug-core.log"}
+{"time":"2024-11-17T19:50:09.178080313+01:00","level":"INFO","msg":"created new stream","id":"zunyfaqv"}
+{"time":"2024-11-17T19:50:09.178131967+01:00","level":"INFO","msg":"stream: started","id":"zunyfaqv"}
+{"time":"2024-11-17T19:50:09.178164203+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zunyfaqv"}}
+{"time":"2024-11-17T19:50:09.178201363+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zunyfaqv"}}
+{"time":"2024-11-17T19:50:09.178246642+01:00","level":"INFO","msg":"sender: started","stream_id":"zunyfaqv"}
+{"time":"2024-11-17T19:50:09.46215882+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T19:50:09.65637148+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T19:50:09.671647091+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T19:50:10.508691263+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T21:03:32.779919798+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T21:03:32.795346324+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T21:03:32.798237216+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T21:03:33.797298828+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.697005221}],"total_operations":1}}
+{"time":"2024-11-17T21:03:35.788742107+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T21:03:37.04537143+01:00","level":"INFO","msg":"stream: closing","id":"zunyfaqv"}
+{"time":"2024-11-17T21:03:37.045425771+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zunyfaqv"}}
+{"time":"2024-11-17T21:03:37.045468645+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zunyfaqv"}}
+{"time":"2024-11-17T21:03:37.045482729+01:00","level":"INFO","msg":"sender: closed","stream_id":"zunyfaqv"}
+{"time":"2024-11-17T21:03:37.045506094+01:00","level":"INFO","msg":"stream: closed","id":"zunyfaqv"}

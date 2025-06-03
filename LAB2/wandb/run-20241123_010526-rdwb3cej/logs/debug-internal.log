@@ -1,0 +1,17 @@
+{"time":"2024-11-23T01:05:27.037005743+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T01:05:27.037036069+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_010526-rdwb3cej/logs/debug-core.log"}
+{"time":"2024-11-23T01:05:27.337197363+01:00","level":"INFO","msg":"created new stream","id":"rdwb3cej"}
+{"time":"2024-11-23T01:05:27.33725482+01:00","level":"INFO","msg":"stream: started","id":"rdwb3cej"}
+{"time":"2024-11-23T01:05:27.337338515+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rdwb3cej"}}
+{"time":"2024-11-23T01:05:27.337446711+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"rdwb3cej"}}
+{"time":"2024-11-23T01:05:27.337478646+01:00","level":"INFO","msg":"sender: started","stream_id":"rdwb3cej"}
+{"time":"2024-11-23T01:05:27.659941861+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T01:08:24.602421052+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T01:08:24.651068141+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T01:08:25.387160559+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T01:08:25.63962642+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.240713263}],"total_operations":1}}
+{"time":"2024-11-23T01:08:27.207366958+01:00","level":"INFO","msg":"stream: closing","id":"rdwb3cej"}
+{"time":"2024-11-23T01:08:27.207462757+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"rdwb3cej"}}
+{"time":"2024-11-23T01:08:27.207505081+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rdwb3cej"}}
+{"time":"2024-11-23T01:08:27.207549716+01:00","level":"INFO","msg":"sender: closed","stream_id":"rdwb3cej"}
+{"time":"2024-11-23T01:08:27.207646443+01:00","level":"INFO","msg":"stream: closed","id":"rdwb3cej"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-23T01:08:27.261397321+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T01:08:27.261427983+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_010827-sabqcrsi/logs/debug-core.log"}
+{"time":"2024-11-23T01:08:27.582913306+01:00","level":"INFO","msg":"created new stream","id":"sabqcrsi"}
+{"time":"2024-11-23T01:08:27.583020242+01:00","level":"INFO","msg":"stream: started","id":"sabqcrsi"}
+{"time":"2024-11-23T01:08:27.58309783+01:00","level":"INFO","msg":"sender: started","stream_id":"sabqcrsi"}
+{"time":"2024-11-23T01:08:27.583107255+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sabqcrsi"}}
+{"time":"2024-11-23T01:08:27.583133959+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sabqcrsi"}}
+{"time":"2024-11-23T01:08:27.908996337+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T01:12:40.198079307+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T01:12:40.214871963+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T01:12:41.06317968+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T01:12:41.199416993+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.135310684}],"total_operations":1}}
+{"time":"2024-11-23T01:12:42.62528403+01:00","level":"INFO","msg":"stream: closing","id":"sabqcrsi"}
+{"time":"2024-11-23T01:12:42.625806447+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sabqcrsi"}}
+{"time":"2024-11-23T01:12:42.625518406+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"sabqcrsi"}}
+{"time":"2024-11-23T01:12:42.625919454+01:00","level":"INFO","msg":"sender: closed","stream_id":"sabqcrsi"}
+{"time":"2024-11-23T01:12:42.626453196+01:00","level":"INFO","msg":"stream: closed","id":"sabqcrsi"}

@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:25:31.111597576+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:25:31.111631977+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_162531-xftbbtk5/logs/debug-core.log"}
+{"time":"2024-11-25T16:25:31.499503752+01:00","level":"INFO","msg":"created new stream","id":"xftbbtk5"}
+{"time":"2024-11-25T16:25:31.499581508+01:00","level":"INFO","msg":"stream: started","id":"xftbbtk5"}
+{"time":"2024-11-25T16:25:31.499674603+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xftbbtk5"}}
+{"time":"2024-11-25T16:25:31.49972449+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xftbbtk5"}}
+{"time":"2024-11-25T16:25:31.499805085+01:00","level":"INFO","msg":"sender: started","stream_id":"xftbbtk5"}
+{"time":"2024-11-25T16:25:32.003071313+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:26:08.123339773+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:26:08.124049954+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:26:08.917337124+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:26:09.124261018+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.206342268}],"total_operations":1}}
+{"time":"2024-11-25T16:26:10.609359976+01:00","level":"INFO","msg":"stream: closing","id":"xftbbtk5"}
+{"time":"2024-11-25T16:26:10.609492621+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xftbbtk5"}}
+{"time":"2024-11-25T16:26:10.609532366+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xftbbtk5"}}
+{"time":"2024-11-25T16:26:10.609662562+01:00","level":"INFO","msg":"sender: closed","stream_id":"xftbbtk5"}
+{"time":"2024-11-25T16:26:10.609991208+01:00","level":"INFO","msg":"stream: closed","id":"xftbbtk5"}

@@ -1,0 +1,22 @@
+{"time":"2024-11-20T02:22:09.557466153+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:22:09.557527821+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_022209-hnwmddel/logs/debug-core.log"}
+{"time":"2024-11-20T02:22:09.911355699+01:00","level":"INFO","msg":"created new stream","id":"hnwmddel"}
+{"time":"2024-11-20T02:22:09.911503771+01:00","level":"INFO","msg":"stream: started","id":"hnwmddel"}
+{"time":"2024-11-20T02:22:09.911620949+01:00","level":"INFO","msg":"sender: started","stream_id":"hnwmddel"}
+{"time":"2024-11-20T02:22:09.911537856+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hnwmddel"}}
+{"time":"2024-11-20T02:22:09.911646445+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hnwmddel"}}
+{"time":"2024-11-20T02:22:10.327350345+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:22:11.138873431+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:22:13.730693964+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:33:41.154567414+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/martinacarrettab/PML_PLAB2_LunaLander/hnwmddel/file_stream"}
+{"time":"2024-11-20T02:52:12.881188667+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T02:52:16.975495684+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T02:52:17.237706884+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:52:17.241088446+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:52:18.240023877+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.541851936,"progress":"761B/761B"}],"total_operations":1}}
+{"time":"2024-11-20T02:52:18.308226545+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T02:52:19.586185613+01:00","level":"INFO","msg":"stream: closing","id":"hnwmddel"}
+{"time":"2024-11-20T02:52:19.586282976+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hnwmddel"}}
+{"time":"2024-11-20T02:52:19.586438817+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hnwmddel"}}
+{"time":"2024-11-20T02:52:19.58651386+01:00","level":"INFO","msg":"sender: closed","stream_id":"hnwmddel"}
+{"time":"2024-11-20T02:52:19.586650058+01:00","level":"INFO","msg":"stream: closed","id":"hnwmddel"}

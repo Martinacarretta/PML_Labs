@@ -1,0 +1,19 @@
+{"time":"2024-11-24T12:24:50.353189796+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T12:24:50.353268638+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_122450-irtyimx4/logs/debug-core.log"}
+{"time":"2024-11-24T12:24:50.670047221+01:00","level":"INFO","msg":"created new stream","id":"irtyimx4"}
+{"time":"2024-11-24T12:24:50.670137519+01:00","level":"INFO","msg":"stream: started","id":"irtyimx4"}
+{"time":"2024-11-24T12:24:50.670213218+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"irtyimx4"}}
+{"time":"2024-11-24T12:24:50.6703181+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"irtyimx4"}}
+{"time":"2024-11-24T12:24:50.670401343+01:00","level":"INFO","msg":"sender: started","stream_id":"irtyimx4"}
+{"time":"2024-11-24T12:24:51.017659395+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T12:24:53.399064074+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T12:25:09.328220728+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T12:25:09.345299697+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T12:25:09.347080257+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T12:25:09.957575268+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T12:25:10.18540069+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-24T12:25:11.225174138+01:00","level":"INFO","msg":"stream: closing","id":"irtyimx4"}
+{"time":"2024-11-24T12:25:11.225309595+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"irtyimx4"}}
+{"time":"2024-11-24T12:25:11.225355058+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"irtyimx4"}}
+{"time":"2024-11-24T12:25:11.225517834+01:00","level":"INFO","msg":"sender: closed","stream_id":"irtyimx4"}
+{"time":"2024-11-24T12:25:11.225584378+01:00","level":"INFO","msg":"stream: closed","id":"irtyimx4"}

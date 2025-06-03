@@ -1,0 +1,6 @@
+>>> Training starts at  2024-11-25 12:19:28.608185
+Filling replay buffer...
+Training...
+Episode 436 Mean Rewards 200.64 Epsilon 0.11186012981287036			
+Environment solved in 436 episodes!
+>>> Training completed at  2024-11-25 12:31:52.081251

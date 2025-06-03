@@ -1,0 +1,21 @@
+{"time":"2024-11-24T02:22:55.110621054+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T02:22:55.110670985+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_022255-frldtxez/logs/debug-core.log"}
+{"time":"2024-11-24T02:22:55.475451762+01:00","level":"INFO","msg":"created new stream","id":"frldtxez"}
+{"time":"2024-11-24T02:22:55.475654141+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"frldtxez"}}
+{"time":"2024-11-24T02:22:55.475729023+01:00","level":"INFO","msg":"stream: started","id":"frldtxez"}
+{"time":"2024-11-24T02:22:55.475612705+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"frldtxez"}}
+{"time":"2024-11-24T02:22:55.475774368+01:00","level":"INFO","msg":"sender: started","stream_id":"frldtxez"}
+{"time":"2024-11-24T02:22:55.780128383+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T02:22:56.156893979+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T02:22:57.754239177+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T02:24:40.317850108+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T02:31:31.586580938+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T02:31:31.600938695+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T02:31:31.602295924+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T02:31:32.602079447+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.715404535,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.070566864,"progress":"874B/874B"}]}],"total_operations":1}}
+{"time":"2024-11-24T02:31:33.643535894+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T02:31:34.881412836+01:00","level":"INFO","msg":"stream: closing","id":"frldtxez"}
+{"time":"2024-11-24T02:31:34.881451206+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"frldtxez"}}
+{"time":"2024-11-24T02:31:34.88147624+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"frldtxez"}}
+{"time":"2024-11-24T02:31:34.881503369+01:00","level":"INFO","msg":"sender: closed","stream_id":"frldtxez"}
+{"time":"2024-11-24T02:31:34.881656123+01:00","level":"INFO","msg":"stream: closed","id":"frldtxez"}

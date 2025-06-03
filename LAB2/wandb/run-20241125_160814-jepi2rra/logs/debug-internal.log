@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:08:14.527408757+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:08:14.527718952+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_160814-jepi2rra/logs/debug-core.log"}
+{"time":"2024-11-25T16:08:14.845953964+01:00","level":"INFO","msg":"created new stream","id":"jepi2rra"}
+{"time":"2024-11-25T16:08:14.846061595+01:00","level":"INFO","msg":"stream: started","id":"jepi2rra"}
+{"time":"2024-11-25T16:08:14.846371639+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jepi2rra"}}
+{"time":"2024-11-25T16:08:14.846374388+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jepi2rra"}}
+{"time":"2024-11-25T16:08:14.846661144+01:00","level":"INFO","msg":"sender: started","stream_id":"jepi2rra"}
+{"time":"2024-11-25T16:08:15.459430158+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:09:44.417969719+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:09:44.420020221+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:09:45.420435051+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.601390795}],"total_operations":1}}
+{"time":"2024-11-25T16:09:47.466999925+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:09:48.7366656+01:00","level":"INFO","msg":"stream: closing","id":"jepi2rra"}
+{"time":"2024-11-25T16:09:48.73673036+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jepi2rra"}}
+{"time":"2024-11-25T16:09:48.73677324+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jepi2rra"}}
+{"time":"2024-11-25T16:09:48.736795538+01:00","level":"INFO","msg":"sender: closed","stream_id":"jepi2rra"}
+{"time":"2024-11-25T16:09:48.737524435+01:00","level":"INFO","msg":"stream: closed","id":"jepi2rra"}

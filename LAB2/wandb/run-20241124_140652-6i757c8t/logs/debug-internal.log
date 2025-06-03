@@ -1,0 +1,17 @@
+{"time":"2024-11-24T14:06:54.536604679+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T14:06:54.536700664+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_140652-6i757c8t/logs/debug-core.log"}
+{"time":"2024-11-24T14:06:54.823489273+01:00","level":"INFO","msg":"created new stream","id":"6i757c8t"}
+{"time":"2024-11-24T14:06:54.823581248+01:00","level":"INFO","msg":"stream: started","id":"6i757c8t"}
+{"time":"2024-11-24T14:06:54.823661554+01:00","level":"INFO","msg":"sender: started","stream_id":"6i757c8t"}
+{"time":"2024-11-24T14:06:54.823697194+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6i757c8t"}}
+{"time":"2024-11-24T14:06:54.823684349+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6i757c8t"}}
+{"time":"2024-11-24T14:06:55.166169766+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T14:16:39.058769358+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T14:16:39.065456049+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T14:16:40.060217127+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.592569794}],"total_operations":1}}
+{"time":"2024-11-24T14:16:41.911643122+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T14:16:43.209128419+01:00","level":"INFO","msg":"stream: closing","id":"6i757c8t"}
+{"time":"2024-11-24T14:16:43.209255872+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6i757c8t"}}
+{"time":"2024-11-24T14:16:43.209456506+01:00","level":"INFO","msg":"sender: closed","stream_id":"6i757c8t"}
+{"time":"2024-11-24T14:16:43.209470948+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6i757c8t"}}
+{"time":"2024-11-24T14:16:43.209643075+01:00","level":"INFO","msg":"stream: closed","id":"6i757c8t"}

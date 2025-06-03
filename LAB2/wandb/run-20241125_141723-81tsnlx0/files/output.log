@@ -1,0 +1,7 @@
+Running with parameters: LR=0.01, MEMORY_SIZE=100000, BATCH_SIZE=64, EPSILON_DECAY=0.9, GAMMA=0.99
+>>> Training starts at  2024-11-25 14:17:24.042870
+Filling replay buffer...
+Training...
+Episode 500 Mean Rewards 49.63 Epsilon 0.01				7511027662772		
+Episode limit reached.
+>>> Training completed at  2024-11-25 14:23:49.113772

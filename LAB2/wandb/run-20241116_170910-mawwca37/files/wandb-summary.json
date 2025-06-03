@@ -1,0 +1,1 @@
+{"epsilon":0.02,"Eps decay":0.995,"Sync target net":100,"reward":100,"reward_100":100.00000087707076,"Batch size":64,"_step":285334,"Gamma":0.99,"Mean reward bound":100,"Learning rate":0.001,"Eps start":1,"_runtime":1552.725821254,"Experience replay size":100000,"_wandb":{"runtime":1552},"_timestamp":1.7317749061578908e+09,"Eps min":0.02}

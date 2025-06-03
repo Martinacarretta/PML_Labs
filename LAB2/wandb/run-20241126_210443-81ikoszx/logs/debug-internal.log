@@ -1,0 +1,21 @@
+{"time":"2024-11-26T21:04:43.856896603+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-26T21:04:43.857005143+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241126_210443-81ikoszx/logs/debug-core.log"}
+{"time":"2024-11-26T21:04:45.999009883+01:00","level":"INFO","msg":"created new stream","id":"81ikoszx"}
+{"time":"2024-11-26T21:04:45.999110088+01:00","level":"INFO","msg":"stream: started","id":"81ikoszx"}
+{"time":"2024-11-26T21:04:45.999335612+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"81ikoszx"}}
+{"time":"2024-11-26T21:04:46.000638379+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"81ikoszx"}}
+{"time":"2024-11-26T21:04:46.001846184+01:00","level":"INFO","msg":"sender: started","stream_id":"81ikoszx"}
+{"time":"2024-11-26T21:04:46.565708694+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T21:04:47.838942895+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:04:50.66784517+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:11:03.894636279+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T21:11:09.258588903+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T21:11:09.272172537+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T21:11:09.275189971+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T21:11:10.108230621+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T21:11:10.265002104+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.156363471}],"total_operations":1}}
+{"time":"2024-11-26T21:11:11.384074218+01:00","level":"INFO","msg":"stream: closing","id":"81ikoszx"}
+{"time":"2024-11-26T21:11:11.384177269+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"81ikoszx"}}
+{"time":"2024-11-26T21:11:11.384353809+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"81ikoszx"}}
+{"time":"2024-11-26T21:11:11.384493855+01:00","level":"INFO","msg":"sender: closed","stream_id":"81ikoszx"}
+{"time":"2024-11-26T21:11:11.384635919+01:00","level":"INFO","msg":"stream: closed","id":"81ikoszx"}

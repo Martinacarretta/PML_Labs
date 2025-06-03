@@ -1,0 +1,19 @@
+{"time":"2024-11-24T16:25:34.021307831+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T16:25:34.02136132+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_162533-csqwxkwu/logs/debug-core.log"}
+{"time":"2024-11-24T16:25:34.255581562+01:00","level":"INFO","msg":"created new stream","id":"csqwxkwu"}
+{"time":"2024-11-24T16:25:34.255686782+01:00","level":"INFO","msg":"stream: started","id":"csqwxkwu"}
+{"time":"2024-11-24T16:25:34.255791517+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"csqwxkwu"}}
+{"time":"2024-11-24T16:25:34.255835413+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"csqwxkwu"}}
+{"time":"2024-11-24T16:25:34.255904314+01:00","level":"INFO","msg":"sender: started","stream_id":"csqwxkwu"}
+{"time":"2024-11-24T16:25:34.479583729+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T16:29:19.189180093+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T16:30:03.519424892+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T16:30:03.527400411+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T16:30:03.528895743+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T16:30:04.529564129+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.344045656},{"desc":"uploading wandb-summary.json","runtime_seconds":0.295299377,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.158910697,"progress":"634B/634B"},{"desc":"uploading output.log","runtime_seconds":0.158898532,"progress":"201B/201B"}],"total_operations":4}}
+{"time":"2024-11-24T16:30:06.411924568+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T16:30:07.617990192+01:00","level":"INFO","msg":"stream: closing","id":"csqwxkwu"}
+{"time":"2024-11-24T16:30:07.618082465+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"csqwxkwu"}}
+{"time":"2024-11-24T16:30:07.618112662+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"csqwxkwu"}}
+{"time":"2024-11-24T16:30:07.618194413+01:00","level":"INFO","msg":"sender: closed","stream_id":"csqwxkwu"}
+{"time":"2024-11-24T16:30:07.618235483+01:00","level":"INFO","msg":"stream: closed","id":"csqwxkwu"}

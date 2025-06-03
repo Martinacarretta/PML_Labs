@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:18:53.624867718+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:18:53.624897313+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_161853-iadiuuhn/logs/debug-core.log"}
+{"time":"2024-11-25T16:18:54.041369315+01:00","level":"INFO","msg":"created new stream","id":"iadiuuhn"}
+{"time":"2024-11-25T16:18:54.041456173+01:00","level":"INFO","msg":"stream: started","id":"iadiuuhn"}
+{"time":"2024-11-25T16:18:54.041497521+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iadiuuhn"}}
+{"time":"2024-11-25T16:18:54.041542076+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"iadiuuhn"}}
+{"time":"2024-11-25T16:18:54.041595601+01:00","level":"INFO","msg":"sender: started","stream_id":"iadiuuhn"}
+{"time":"2024-11-25T16:18:54.469946457+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:19:42.187053031+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:19:42.18781326+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:19:43.124795187+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:19:43.188198393+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.062933581}],"total_operations":1}}
+{"time":"2024-11-25T16:19:44.361796639+01:00","level":"INFO","msg":"stream: closing","id":"iadiuuhn"}
+{"time":"2024-11-25T16:19:44.361817403+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"iadiuuhn"}}
+{"time":"2024-11-25T16:19:44.361841275+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iadiuuhn"}}
+{"time":"2024-11-25T16:19:44.361857911+01:00","level":"INFO","msg":"sender: closed","stream_id":"iadiuuhn"}
+{"time":"2024-11-25T16:19:44.361933257+01:00","level":"INFO","msg":"stream: closed","id":"iadiuuhn"}

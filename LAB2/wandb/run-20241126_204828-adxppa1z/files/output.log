@@ -1,0 +1,4 @@
+>>> Training starts at  2024-11-26 20:48:30.150590
+/tmp/ipykernel_479/4099487342.py:33: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  state_batch = torch.tensor(states, dtype=torch.float32)
+Episode 50	Mean reward (last 100): -147.33

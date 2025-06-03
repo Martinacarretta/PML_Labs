@@ -1,0 +1,17 @@
+{"time":"2024-11-25T04:26:16.985636836+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T04:26:16.985682958+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_042616-l507kn2z/logs/debug-core.log"}
+{"time":"2024-11-25T04:26:17.162865354+01:00","level":"INFO","msg":"created new stream","id":"l507kn2z"}
+{"time":"2024-11-25T04:26:17.162908123+01:00","level":"INFO","msg":"stream: started","id":"l507kn2z"}
+{"time":"2024-11-25T04:26:17.162946221+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"l507kn2z"}}
+{"time":"2024-11-25T04:26:17.163005405+01:00","level":"INFO","msg":"sender: started","stream_id":"l507kn2z"}
+{"time":"2024-11-25T04:26:17.163063374+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"l507kn2z"}}
+{"time":"2024-11-25T04:26:17.446414678+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T04:39:20.448018566+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T04:39:20.449300248+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T04:39:21.449872842+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.521049198,"progress":"342B/342B"},{"desc":"uploading config.yaml","runtime_seconds":0.52109338,"progress":"579B/579B"}],"total_operations":2}}
+{"time":"2024-11-25T04:39:21.533511025+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T04:39:22.776940054+01:00","level":"INFO","msg":"stream: closing","id":"l507kn2z"}
+{"time":"2024-11-25T04:39:22.776982386+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"l507kn2z"}}
+{"time":"2024-11-25T04:39:22.777021808+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"l507kn2z"}}
+{"time":"2024-11-25T04:39:22.777072767+01:00","level":"INFO","msg":"sender: closed","stream_id":"l507kn2z"}
+{"time":"2024-11-25T04:39:22.777135923+01:00","level":"INFO","msg":"stream: closed","id":"l507kn2z"}

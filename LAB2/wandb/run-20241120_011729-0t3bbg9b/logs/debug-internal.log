@@ -1,0 +1,23 @@
+{"time":"2024-11-20T01:17:29.370978631+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T01:17:29.371014624+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_011729-0t3bbg9b/logs/debug-core.log"}
+{"time":"2024-11-20T01:17:29.583516983+01:00","level":"INFO","msg":"created new stream","id":"0t3bbg9b"}
+{"time":"2024-11-20T01:17:29.583568471+01:00","level":"INFO","msg":"stream: started","id":"0t3bbg9b"}
+{"time":"2024-11-20T01:17:29.58360689+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"0t3bbg9b"}}
+{"time":"2024-11-20T01:17:29.583635348+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"0t3bbg9b"}}
+{"time":"2024-11-20T01:17:29.583642377+01:00","level":"INFO","msg":"sender: started","stream_id":"0t3bbg9b"}
+{"time":"2024-11-20T01:17:30.062707582+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T01:17:30.412060188+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T01:17:31.218986781+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T01:45:11.111429425+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T01:54:19.675079763+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T01:54:19.737924927+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T01:54:27.060356241+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T01:54:27.129100415+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T01:54:27.14160845+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T01:54:28.135632429+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.501889967,"progress":"761B/761B"}],"total_operations":1}}
+{"time":"2024-11-20T01:54:28.18051246+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T01:54:29.676960597+01:00","level":"INFO","msg":"stream: closing","id":"0t3bbg9b"}
+{"time":"2024-11-20T01:54:29.677114069+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"0t3bbg9b"}}
+{"time":"2024-11-20T01:54:29.677451973+01:00","level":"INFO","msg":"sender: closed","stream_id":"0t3bbg9b"}
+{"time":"2024-11-20T01:54:29.677314856+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"0t3bbg9b"}}
+{"time":"2024-11-20T01:54:29.678279056+01:00","level":"INFO","msg":"stream: closed","id":"0t3bbg9b"}

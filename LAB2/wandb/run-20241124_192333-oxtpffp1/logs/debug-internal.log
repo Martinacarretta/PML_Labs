@@ -1,0 +1,17 @@
+{"time":"2024-11-24T19:23:33.059757006+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T19:23:33.059819654+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_192333-oxtpffp1/logs/debug-core.log"}
+{"time":"2024-11-24T19:23:33.375034183+01:00","level":"INFO","msg":"created new stream","id":"oxtpffp1"}
+{"time":"2024-11-24T19:23:33.37507587+01:00","level":"INFO","msg":"stream: started","id":"oxtpffp1"}
+{"time":"2024-11-24T19:23:33.375110664+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"oxtpffp1"}}
+{"time":"2024-11-24T19:23:33.37516807+01:00","level":"INFO","msg":"sender: started","stream_id":"oxtpffp1"}
+{"time":"2024-11-24T19:23:33.375171649+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"oxtpffp1"}}
+{"time":"2024-11-24T19:23:33.679638903+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T19:25:21.887221911+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T19:25:21.888857157+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T19:25:22.676129623+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T19:25:22.88850873+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.212176015}],"total_operations":1}}
+{"time":"2024-11-24T19:25:23.978517976+01:00","level":"INFO","msg":"stream: closing","id":"oxtpffp1"}
+{"time":"2024-11-24T19:25:23.978556341+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"oxtpffp1"}}
+{"time":"2024-11-24T19:25:23.978578681+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"oxtpffp1"}}
+{"time":"2024-11-24T19:25:23.978655528+01:00","level":"INFO","msg":"sender: closed","stream_id":"oxtpffp1"}
+{"time":"2024-11-24T19:25:23.978677378+01:00","level":"INFO","msg":"stream: closed","id":"oxtpffp1"}

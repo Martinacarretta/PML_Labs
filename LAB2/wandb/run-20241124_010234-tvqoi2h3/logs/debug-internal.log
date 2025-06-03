@@ -1,0 +1,23 @@
+{"time":"2024-11-24T01:02:34.822423979+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T01:02:34.823162657+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_010234-tvqoi2h3/logs/debug-core.log"}
+{"time":"2024-11-24T01:02:35.476269726+01:00","level":"INFO","msg":"created new stream","id":"tvqoi2h3"}
+{"time":"2024-11-24T01:02:35.476882112+01:00","level":"INFO","msg":"stream: started","id":"tvqoi2h3"}
+{"time":"2024-11-24T01:02:35.479306366+01:00","level":"INFO","msg":"sender: started","stream_id":"tvqoi2h3"}
+{"time":"2024-11-24T01:02:35.479255434+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tvqoi2h3"}}
+{"time":"2024-11-24T01:02:35.4805059+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tvqoi2h3"}}
+{"time":"2024-11-24T01:02:36.071182052+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T01:02:38.696234359+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:02:50.087772211+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:02:50.09503957+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:03:04.009970562+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:03:04.041810547+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:03:11.76929381+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-24T01:03:11.818337157+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-24T01:03:11.833551944+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-24T01:03:12.819204256+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.620632812}],"total_operations":1}}
+{"time":"2024-11-24T01:03:14.816788434+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-24T01:03:16.142097228+01:00","level":"INFO","msg":"stream: closing","id":"tvqoi2h3"}
+{"time":"2024-11-24T01:03:16.142436722+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tvqoi2h3"}}
+{"time":"2024-11-24T01:03:16.142718976+01:00","level":"INFO","msg":"sender: closed","stream_id":"tvqoi2h3"}
+{"time":"2024-11-24T01:03:16.14264992+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tvqoi2h3"}}
+{"time":"2024-11-24T01:03:16.143400392+01:00","level":"INFO","msg":"stream: closed","id":"tvqoi2h3"}

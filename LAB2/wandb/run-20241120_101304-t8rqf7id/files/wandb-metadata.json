@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-20T09:13:04.269676Z",
+  "program":  "/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/PRA2_LunarLander.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Martinacarretta/Paradigms_ML.git",
+    "commit":  "db6cc4943496527007c72913bdd4eacf6a03b01d"
+  },
+  "email":  "martinacarrettab@gmail.com",
+  "root":  "/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2",
+  "host":  "LAPTOP-INQT65B2",
+  "username":  "martina",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "PRA2_LunarLander.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "269490393088",
+      "used":  "22805606400"
+    }
+  },
+  "memory":  {
+    "total":  "3998269440"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

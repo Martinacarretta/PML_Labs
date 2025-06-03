@@ -1,0 +1,17 @@
+{"time":"2024-11-16T21:05:57.074264417+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-16T21:05:57.074380616+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241116_210554-be0k4niq/logs/debug-core.log"}
+{"time":"2024-11-16T21:05:57.492187543+01:00","level":"INFO","msg":"created new stream","id":"be0k4niq"}
+{"time":"2024-11-16T21:05:57.49224347+01:00","level":"INFO","msg":"stream: started","id":"be0k4niq"}
+{"time":"2024-11-16T21:05:57.492371271+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"be0k4niq"}}
+{"time":"2024-11-16T21:05:57.492396015+01:00","level":"INFO","msg":"sender: started","stream_id":"be0k4niq"}
+{"time":"2024-11-16T21:05:57.492488641+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"be0k4niq"}}
+{"time":"2024-11-16T21:05:57.822677526+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-16T21:13:23.564483247+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-16T21:13:23.57301679+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-16T21:13:24.567748719+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.48366272,"progress":"248.1KB/248.1KB"}],"total_operations":1}}
+{"time":"2024-11-16T21:13:24.72975497+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-16T21:13:26.080018321+01:00","level":"INFO","msg":"stream: closing","id":"be0k4niq"}
+{"time":"2024-11-16T21:13:26.080097416+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"be0k4niq"}}
+{"time":"2024-11-16T21:13:26.080284706+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"be0k4niq"}}
+{"time":"2024-11-16T21:13:26.080385341+01:00","level":"INFO","msg":"sender: closed","stream_id":"be0k4niq"}
+{"time":"2024-11-16T21:13:26.080537748+01:00","level":"INFO","msg":"stream: closed","id":"be0k4niq"}

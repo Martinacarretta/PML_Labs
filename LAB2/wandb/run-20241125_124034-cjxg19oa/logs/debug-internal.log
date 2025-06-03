@@ -1,0 +1,23 @@
+{"time":"2024-11-25T12:40:34.694057099+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T12:40:34.694261814+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_124034-cjxg19oa/logs/debug-core.log"}
+{"time":"2024-11-25T12:40:34.888627733+01:00","level":"INFO","msg":"created new stream","id":"cjxg19oa"}
+{"time":"2024-11-25T12:40:34.888700633+01:00","level":"INFO","msg":"stream: started","id":"cjxg19oa"}
+{"time":"2024-11-25T12:40:34.888746703+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cjxg19oa"}}
+{"time":"2024-11-25T12:40:34.888813041+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"cjxg19oa"}}
+{"time":"2024-11-25T12:40:34.888873999+01:00","level":"INFO","msg":"sender: started","stream_id":"cjxg19oa"}
+{"time":"2024-11-25T12:40:35.174702466+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T12:55:06.033433556+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:55:11.731500794+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:55:11.738572808+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:55:15.095280868+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:55:15.102660835+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T12:55:18.704700909+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T12:55:18.711262492+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T12:55:18.716996277+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T12:55:19.712462902+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.700215748,"subtasks":[{"desc":"requirements.frozen.txt","runtime_seconds":0.062773629,"progress":"4.5KB/4.5KB"},{"desc":"wandb-job.json","runtime_seconds":0.062859712,"progress":"791B/791B"}]}],"total_operations":1}}
+{"time":"2024-11-25T12:55:21.387167229+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T12:55:22.663165057+01:00","level":"INFO","msg":"stream: closing","id":"cjxg19oa"}
+{"time":"2024-11-25T12:55:22.663200817+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"cjxg19oa"}}
+{"time":"2024-11-25T12:55:22.663285162+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cjxg19oa"}}
+{"time":"2024-11-25T12:55:22.663359903+01:00","level":"INFO","msg":"sender: closed","stream_id":"cjxg19oa"}
+{"time":"2024-11-25T12:55:22.663383649+01:00","level":"INFO","msg":"stream: closed","id":"cjxg19oa"}

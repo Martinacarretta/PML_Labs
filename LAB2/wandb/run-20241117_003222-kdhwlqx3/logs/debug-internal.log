@@ -1,0 +1,7 @@
+{"time":"2024-11-17T00:32:22.595704943+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-17T00:32:22.596250161+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241117_003222-kdhwlqx3/logs/debug-core.log"}
+{"time":"2024-11-17T00:32:23.23639094+01:00","level":"INFO","msg":"created new stream","id":"kdhwlqx3"}
+{"time":"2024-11-17T00:32:23.237529741+01:00","level":"INFO","msg":"stream: started","id":"kdhwlqx3"}
+{"time":"2024-11-17T00:32:23.238116957+01:00","level":"INFO","msg":"sender: started","stream_id":"kdhwlqx3"}
+{"time":"2024-11-17T00:32:23.237502044+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kdhwlqx3"}}
+{"time":"2024-11-17T00:32:23.237742397+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kdhwlqx3"}}

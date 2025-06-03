@@ -1,0 +1,17 @@
+{"time":"2024-11-25T17:13:04.411039147+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T17:13:04.411095821+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_171304-jtmhsdt4/logs/debug-core.log"}
+{"time":"2024-11-25T17:13:04.698884258+01:00","level":"INFO","msg":"created new stream","id":"jtmhsdt4"}
+{"time":"2024-11-25T17:13:04.698997636+01:00","level":"INFO","msg":"stream: started","id":"jtmhsdt4"}
+{"time":"2024-11-25T17:13:04.699070092+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jtmhsdt4"}}
+{"time":"2024-11-25T17:13:04.699085129+01:00","level":"INFO","msg":"sender: started","stream_id":"jtmhsdt4"}
+{"time":"2024-11-25T17:13:04.699055495+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jtmhsdt4"}}
+{"time":"2024-11-25T17:13:05.007573476+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T17:14:37.709201155+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T17:14:37.710216283+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T17:14:38.663920535+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T17:14:38.710498509+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary","runtime_seconds":0.045978039}],"total_operations":1}}
+{"time":"2024-11-25T17:14:39.997450066+01:00","level":"INFO","msg":"stream: closing","id":"jtmhsdt4"}
+{"time":"2024-11-25T17:14:39.997539889+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jtmhsdt4"}}
+{"time":"2024-11-25T17:14:39.997585113+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jtmhsdt4"}}
+{"time":"2024-11-25T17:14:39.997741433+01:00","level":"INFO","msg":"sender: closed","stream_id":"jtmhsdt4"}
+{"time":"2024-11-25T17:14:39.997814889+01:00","level":"INFO","msg":"stream: closed","id":"jtmhsdt4"}

@@ -1,0 +1,23 @@
+{"time":"2024-11-25T11:17:34.363572276+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T11:17:34.363678626+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_111734-upvwgp79/logs/debug-core.log"}
+{"time":"2024-11-25T11:17:35.098573818+01:00","level":"INFO","msg":"created new stream","id":"upvwgp79"}
+{"time":"2024-11-25T11:17:35.101340553+01:00","level":"INFO","msg":"stream: started","id":"upvwgp79"}
+{"time":"2024-11-25T11:17:35.102981695+01:00","level":"INFO","msg":"sender: started","stream_id":"upvwgp79"}
+{"time":"2024-11-25T11:17:35.10266025+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"upvwgp79"}}
+{"time":"2024-11-25T11:17:35.10131598+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"upvwgp79"}}
+{"time":"2024-11-25T11:17:35.596411844+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T11:17:36.896862825+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T11:17:37.222745921+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T11:44:50.96237742+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T11:44:51.089663518+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T11:44:51.179365496+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T11:44:54.680061647+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T11:44:54.724113968+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T11:44:54.737835204+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T11:44:55.731294935+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.689711129}],"total_operations":1}}
+{"time":"2024-11-25T11:44:57.808542871+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T11:44:59.275728946+01:00","level":"INFO","msg":"stream: closing","id":"upvwgp79"}
+{"time":"2024-11-25T11:44:59.276314134+01:00","level":"INFO","msg":"sender: closed","stream_id":"upvwgp79"}
+{"time":"2024-11-25T11:44:59.276285538+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"upvwgp79"}}
+{"time":"2024-11-25T11:44:59.276108614+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"upvwgp79"}}
+{"time":"2024-11-25T11:44:59.276602285+01:00","level":"INFO","msg":"stream: closed","id":"upvwgp79"}

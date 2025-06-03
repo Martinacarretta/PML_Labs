@@ -1,0 +1,11 @@
+{"time":"2024-11-24T01:05:33.378512744+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-24T01:05:33.37855842+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_010533-j8khgu5c/logs/debug-core.log"}
+{"time":"2024-11-24T01:05:33.688571795+01:00","level":"INFO","msg":"created new stream","id":"j8khgu5c"}
+{"time":"2024-11-24T01:05:33.688675162+01:00","level":"INFO","msg":"stream: started","id":"j8khgu5c"}
+{"time":"2024-11-24T01:05:33.688753271+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"j8khgu5c"}}
+{"time":"2024-11-24T01:05:33.688863597+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j8khgu5c"}}
+{"time":"2024-11-24T01:05:33.688907061+01:00","level":"INFO","msg":"sender: started","stream_id":"j8khgu5c"}
+{"time":"2024-11-24T01:05:34.080024399+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-24T01:05:42.467798319+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-24T01:17:50.105719955+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/martinacarrettab/PML_PLAB2_LunarLander_GridSearch_Dueling/j8khgu5c/file_stream"}
+{"time":"2024-11-24T01:17:50.108047888+01:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/martinacarrettab/PML_PLAB2_LunarLander_GridSearch_Dueling/j8khgu5c/file_stream: {\"error\":\"run PML_PLAB2_LunarLander_GridSearch_Dueling/j8khgu5c not found while streaming file\"}"}

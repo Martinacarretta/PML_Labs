@@ -1,0 +1,11 @@
+>>> Training starts at  2024-11-22 01:15:21.495075
+Filling replay buffer...
+Training...
+Episode 479 Mean Rewards 200.02 Epsilon 0.090171187904037				
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3904: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/martina/.local/lib/python3.10/site-packages/numpy/_core/_methods.py:147: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Environment solved in 479 episodes!
+>>> Training completed at  2024-11-22 01:29:14.481903
+>>> Training ends at  2024-11-22 01:29:14.506294

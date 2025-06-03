@@ -1,0 +1,17 @@
+{"time":"2024-11-25T16:52:25.834850212+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T16:52:25.834884119+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_165225-3drddlir/logs/debug-core.log"}
+{"time":"2024-11-25T16:52:26.126602696+01:00","level":"INFO","msg":"created new stream","id":"3drddlir"}
+{"time":"2024-11-25T16:52:26.126657102+01:00","level":"INFO","msg":"stream: started","id":"3drddlir"}
+{"time":"2024-11-25T16:52:26.126699785+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3drddlir"}}
+{"time":"2024-11-25T16:52:26.126731135+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3drddlir"}}
+{"time":"2024-11-25T16:52:26.126733878+01:00","level":"INFO","msg":"sender: started","stream_id":"3drddlir"}
+{"time":"2024-11-25T16:52:26.652478047+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:55:24.357952249+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:55:24.358820265+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:55:25.256854635+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:55:25.358982072+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.101626997}],"total_operations":1}}
+{"time":"2024-11-25T16:55:26.627486669+01:00","level":"INFO","msg":"stream: closing","id":"3drddlir"}
+{"time":"2024-11-25T16:55:26.627583789+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"3drddlir"}}
+{"time":"2024-11-25T16:55:26.627621508+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3drddlir"}}
+{"time":"2024-11-25T16:55:26.627741419+01:00","level":"INFO","msg":"sender: closed","stream_id":"3drddlir"}
+{"time":"2024-11-25T16:55:26.627772005+01:00","level":"INFO","msg":"stream: closed","id":"3drddlir"}

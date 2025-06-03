@@ -1,0 +1,51 @@
+2024-11-24 14:16:39,040 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Configure stats pid to 6251
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Loading settings from /home/martina/.config/wandb/settings
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Loading settings from /home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/settings
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_init.py:_log_setup():534] Logging user logs to /home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_141638-s6r08fiz/logs/debug.log
+2024-11-24 14:16:39,041 INFO    MainThread:6251 [wandb_init.py:_log_setup():535] Logging internal logs to /home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241124_141638-s6r08fiz/logs/debug-internal.log
+2024-11-24 14:16:39,042 INFO    MainThread:6251 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f8e00576890>
+2024-11-24 14:16:39,042 INFO    MainThread:6251 [wandb_init.py:init():621] calling init triggers
+2024-11-24 14:16:39,043 INFO    MainThread:6251 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'lr': 0.001, 'MEMORY_SIZE': 100000, 'MAX_EPISODES': 5000, 'EPSILON': 0.99, 'EPSILON_DECAY': 0.995, 'GAMMA': 0.99, 'BATCH_SIZE': 64, 'BURN_IN': 1000, 'DNN_UPD': 1, 'DNN_SYNC': 2500, 'DUELING': True}
+2024-11-24 14:16:39,043 INFO    MainThread:6251 [wandb_init.py:init():646] re-initializing run, found existing run on stack: 6i757c8t
+2024-11-24 14:16:39,052 INFO    MainThread:6251 [wandb_run.py:_finish():2158] finishing run martinacarrettab/PML_PLAB2_LunarLander_GridSearch_Dueling/6i757c8t
+2024-11-24 14:16:39,054 INFO    MainThread:6251 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-24 14:16:39,055 INFO    MainThread:6251 [wandb_run.py:_restore():2408] restore
+2024-11-24 14:16:39,057 INFO    MainThread:6251 [wandb_run.py:_restore():2414] restore done
+2024-11-24 14:16:43,137 INFO    MainThread:6251 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-24 14:16:43,144 INFO    MainThread:6251 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-24 14:16:43,200 INFO    MainThread:6251 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-11-24 14:16:43,223 INFO    MainThread:6251 [wandb_init.py:init():671] starting backend
+2024-11-24 14:16:43,224 INFO    MainThread:6251 [wandb_init.py:init():675] sending inform_init request
+2024-11-24 14:16:43,233 INFO    MainThread:6251 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-24 14:16:43,239 INFO    MainThread:6251 [wandb_init.py:init():688] backend started and connected
+2024-11-24 14:16:43,265 INFO    MainThread:6251 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-11-24 14:16:43,335 INFO    MainThread:6251 [wandb_init.py:init():783] updated telemetry
+2024-11-24 14:16:43,405 INFO    MainThread:6251 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-11-24 14:16:44,011 INFO    MainThread:6251 [wandb_init.py:init():867] starting run threads in backend
+2024-11-24 14:16:44,845 INFO    MainThread:6251 [wandb_run.py:_console_start():2463] atexit reg
+2024-11-24 14:16:44,846 INFO    MainThread:6251 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-11-24 14:16:44,848 INFO    MainThread:6251 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-11-24 14:16:44,848 INFO    MainThread:6251 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-11-24 14:16:44,855 INFO    MainThread:6251 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-24 14:16:44,864 INFO    MainThread:6251 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-24 14:16:44,865 INFO    MainThread:6251 [wandb_init.py:_pause_backend():445] pausing backend
+2024-11-24 14:16:47,108 INFO    MainThread:6251 [wandb_init.py:_resume_backend():450] resuming backend
+2024-11-24 14:23:00,758 INFO    MainThread:6251 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-24 14:23:00,761 INFO    MainThread:6251 [wandb_init.py:_pause_backend():445] pausing backend
+2024-11-24 14:23:04,635 INFO    MainThread:6251 [wandb_init.py:_resume_backend():450] resuming backend
+2024-11-24 14:23:04,646 INFO    MainThread:6251 [wandb_run.py:_finish():2158] finishing run martinacarrettab/PML_PLAB2_LunarLander/s6r08fiz
+2024-11-24 14:23:04,654 INFO    MainThread:6251 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-24 14:23:04,654 INFO    MainThread:6251 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-24 14:23:04,654 INFO    MainThread:6251 [wandb_init.py:_jupyter_teardown():462] cleaning up jupyter logic
+2024-11-24 14:23:04,655 INFO    MainThread:6251 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-24 14:23:04,659 INFO    MainThread:6251 [wandb_run.py:_restore():2408] restore
+2024-11-24 14:23:04,660 INFO    MainThread:6251 [wandb_run.py:_restore():2414] restore done
+2024-11-24 14:23:09,145 INFO    MainThread:6251 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-24 14:23:09,155 INFO    MainThread:6251 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-24 14:23:09,198 INFO    MainThread:6251 [wandb_run.py:_footer_sync_info():3934] logging synced files

@@ -1,0 +1,11 @@
+/tmp/ipykernel_411/3985888898.py:73: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  state_batch = torch.tensor(states, dtype=torch.float32)
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 50	Mean Reward (last 100): -189.19
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 100	Mean Reward (last 100): -177.85
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 150	Mean Reward (last 100): -174.33
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 200	Mean Reward (last 100): -194.30
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 250	Mean Reward (last 100): -178.55
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 300	Mean Reward (last 100): -162.80
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 350	Mean Reward (last 100): -150.56
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 400	Mean Reward (last 100): -88.51
+Params: {'HIDDEN_SIZE': 128, 'LEARNING_RATE': 0.001, 'GAMMA': 0.95, 'HORIZON': 200, 'MAX_TRAJECTORIES': 500}, Episode 450	Mean Reward (last 100): -59.11

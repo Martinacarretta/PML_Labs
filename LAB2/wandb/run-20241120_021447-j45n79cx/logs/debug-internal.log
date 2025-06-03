@@ -1,0 +1,17 @@
+{"time":"2024-11-20T02:14:50.262306438+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T02:14:50.262329916+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_021447-j45n79cx/logs/debug-core.log"}
+{"time":"2024-11-20T02:14:50.696488289+01:00","level":"INFO","msg":"created new stream","id":"j45n79cx"}
+{"time":"2024-11-20T02:14:50.69664143+01:00","level":"INFO","msg":"stream: started","id":"j45n79cx"}
+{"time":"2024-11-20T02:14:50.696732345+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j45n79cx"}}
+{"time":"2024-11-20T02:14:50.696865962+01:00","level":"INFO","msg":"sender: started","stream_id":"j45n79cx"}
+{"time":"2024-11-20T02:14:50.696913959+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"j45n79cx"}}
+{"time":"2024-11-20T02:14:51.12504146+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T02:15:54.138296299+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T02:15:54.139427005+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T02:15:54.9744951+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T02:15:55.13947331+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console logs","runtime_seconds":0.164570931}],"total_operations":1}}
+{"time":"2024-11-20T02:15:56.265247406+01:00","level":"INFO","msg":"stream: closing","id":"j45n79cx"}
+{"time":"2024-11-20T02:15:56.265667902+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"j45n79cx"}}
+{"time":"2024-11-20T02:15:56.265836741+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"j45n79cx"}}
+{"time":"2024-11-20T02:15:56.26599363+01:00","level":"INFO","msg":"sender: closed","stream_id":"j45n79cx"}
+{"time":"2024-11-20T02:15:56.26631166+01:00","level":"INFO","msg":"stream: closed","id":"j45n79cx"}

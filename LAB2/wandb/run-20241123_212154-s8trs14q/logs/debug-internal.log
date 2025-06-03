@@ -1,0 +1,17 @@
+{"time":"2024-11-23T21:21:54.575830443+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-23T21:21:54.575857759+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241123_212154-s8trs14q/logs/debug-core.log"}
+{"time":"2024-11-23T21:21:54.902105077+01:00","level":"INFO","msg":"created new stream","id":"s8trs14q"}
+{"time":"2024-11-23T21:21:54.902178356+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"s8trs14q"}}
+{"time":"2024-11-23T21:21:54.90220328+01:00","level":"INFO","msg":"stream: started","id":"s8trs14q"}
+{"time":"2024-11-23T21:21:54.902237035+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"s8trs14q"}}
+{"time":"2024-11-23T21:21:54.902255279+01:00","level":"INFO","msg":"sender: started","stream_id":"s8trs14q"}
+{"time":"2024-11-23T21:21:55.183655187+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T21:26:03.584244486+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:26:03.586829135+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:26:04.403725911+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:26:04.587111357+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.182272824}],"total_operations":1}}
+{"time":"2024-11-23T21:26:05.89081362+01:00","level":"INFO","msg":"stream: closing","id":"s8trs14q"}
+{"time":"2024-11-23T21:26:05.890860634+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"s8trs14q"}}
+{"time":"2024-11-23T21:26:05.890912573+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"s8trs14q"}}
+{"time":"2024-11-23T21:26:05.89092782+01:00","level":"INFO","msg":"sender: closed","stream_id":"s8trs14q"}
+{"time":"2024-11-23T21:26:05.891056056+01:00","level":"INFO","msg":"stream: closed","id":"s8trs14q"}

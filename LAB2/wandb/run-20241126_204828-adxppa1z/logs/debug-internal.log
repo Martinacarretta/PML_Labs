@@ -1,0 +1,25 @@
+{"time":"2024-11-26T20:48:28.805801618+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-26T20:48:28.805848297+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241126_204828-adxppa1z/logs/debug-core.log"}
+{"time":"2024-11-26T20:48:29.191806124+01:00","level":"INFO","msg":"created new stream","id":"adxppa1z"}
+{"time":"2024-11-26T20:48:29.192014288+01:00","level":"INFO","msg":"stream: started","id":"adxppa1z"}
+{"time":"2024-11-26T20:48:29.192118592+01:00","level":"INFO","msg":"sender: started","stream_id":"adxppa1z"}
+{"time":"2024-11-26T20:48:29.192177967+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"adxppa1z"}}
+{"time":"2024-11-26T20:48:29.192141073+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"adxppa1z"}}
+{"time":"2024-11-26T20:48:29.560477262+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T20:48:30.157162505+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T20:48:31.858899208+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T20:48:36.879982911+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T20:48:49.060505911+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T20:48:49.071021764+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T20:48:49.918846517+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T20:48:49.945427902+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-26T20:48:51.941342318+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-26T20:48:51.952254459+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T20:48:51.954341986+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T20:48:52.953446069+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.850588068,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.074595358,"progress":"874B/874B"}]}],"total_operations":1}}
+{"time":"2024-11-26T20:48:54.840375407+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T20:48:56.131995886+01:00","level":"INFO","msg":"stream: closing","id":"adxppa1z"}
+{"time":"2024-11-26T20:48:56.132026322+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"adxppa1z"}}
+{"time":"2024-11-26T20:48:56.132061838+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"adxppa1z"}}
+{"time":"2024-11-26T20:48:56.132126351+01:00","level":"INFO","msg":"sender: closed","stream_id":"adxppa1z"}
+{"time":"2024-11-26T20:48:56.132234506+01:00","level":"INFO","msg":"stream: closed","id":"adxppa1z"}

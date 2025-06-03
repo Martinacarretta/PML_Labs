@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-11-10.0.22631-SP0",
+  "python":  "3.12.3",
+  "startedAt":  "2024-11-26T21:19:51.769343Z",
+  "program":  "c:\\Users\\Adam\\Downloads\\aaaa\\PRA2_LunarLander.ipynb",
+  "email":  "martinacarrettab@gmail.com",
+  "root":  "c:\\Users\\Adam\\Downloads\\aaaa",
+  "host":  "DESKTOP-UEMQPDJ",
+  "username":  "adminlocal",
+  "executable":  "c:\\Python312\\python.exe",
+  "codePathLocal":  "PRA2_LunarLander.ipynb",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "785434050560",
+      "used":  "649307021312"
+    }
+  },
+  "memory":  {
+    "total":  "34045362176"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+      "memoryTotal":  "8589934592",
+      "cudaCores":  5888,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}

@@ -1,0 +1,17 @@
+{"time":"2024-11-25T05:41:14.412703526+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T05:41:14.412729315+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_054114-fquthgib/logs/debug-core.log"}
+{"time":"2024-11-25T05:41:14.60921381+01:00","level":"INFO","msg":"created new stream","id":"fquthgib"}
+{"time":"2024-11-25T05:41:14.609261425+01:00","level":"INFO","msg":"stream: started","id":"fquthgib"}
+{"time":"2024-11-25T05:41:14.609292193+01:00","level":"INFO","msg":"sender: started","stream_id":"fquthgib"}
+{"time":"2024-11-25T05:41:14.609295177+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fquthgib"}}
+{"time":"2024-11-25T05:41:14.609315312+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fquthgib"}}
+{"time":"2024-11-25T05:41:14.946783045+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T05:57:01.765871343+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T05:57:01.770098314+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T05:57:02.766264033+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.508625808,"progress":"578B/578B"},{"desc":"uploading output.log","runtime_seconds":0.508572788,"progress":"341B/341B"}],"total_operations":2}}
+{"time":"2024-11-25T05:57:02.859860473+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T05:57:04.121331242+01:00","level":"INFO","msg":"stream: closing","id":"fquthgib"}
+{"time":"2024-11-25T05:57:04.121385083+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fquthgib"}}
+{"time":"2024-11-25T05:57:04.121416275+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fquthgib"}}
+{"time":"2024-11-25T05:57:04.121435272+01:00","level":"INFO","msg":"sender: closed","stream_id":"fquthgib"}
+{"time":"2024-11-25T05:57:04.121551934+01:00","level":"INFO","msg":"stream: closed","id":"fquthgib"}

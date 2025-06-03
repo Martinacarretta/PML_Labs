@@ -1,0 +1,17 @@
+>>> Training starts at  2024-11-26 20:59:00.159746
+Episode 50	Mean reward (last 100): -188.81
+Episode 100	Mean reward (last 100): -160.78
+Episode 150	Mean reward (last 100): -140.67
+Episode 200	Mean reward (last 100): -135.10
+Episode 250	Mean reward (last 100): -113.30
+Episode 300	Mean reward (last 100): -105.21
+Episode 350	Mean reward (last 100): -104.62
+Episode 400	Mean reward (last 100): -87.90
+Episode 450	Mean reward (last 100): -78.17
+Episode 500	Mean reward (last 100): -64.73
+Episode 550	Mean reward (last 100): -47.84
+Episode 600	Mean reward (last 100): -48.97
+Episode 650	Mean reward (last 100): -35.40
+Episode 700	Mean reward (last 100): -7.79
+Episode 750	Mean reward (last 100): 9.81
+Episode 800	Mean reward (last 100): 7.89

@@ -1,0 +1,21 @@
+{"time":"2024-11-25T18:57:13.168370237+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-25T18:57:13.170368996+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3year/Paradigms_ML/practical LAB 2/wandb/run-20241125_185713-6nascyca/logs/debug-core.log"}
+{"time":"2024-11-25T18:57:13.835785615+01:00","level":"INFO","msg":"created new stream","id":"6nascyca"}
+{"time":"2024-11-25T18:57:13.836475589+01:00","level":"INFO","msg":"stream: started","id":"6nascyca"}
+{"time":"2024-11-25T18:57:13.83853746+01:00","level":"INFO","msg":"sender: started","stream_id":"6nascyca"}
+{"time":"2024-11-25T18:57:13.838715591+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6nascyca"}}
+{"time":"2024-11-25T18:57:13.838124956+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6nascyca"}}
+{"time":"2024-11-25T18:57:14.245456647+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T18:57:15.220139805+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T18:57:20.630095628+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:55:11.826367097+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:55:11.97391775+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:55:13.561502128+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T19:55:13.581061302+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T19:55:14.557549154+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.800645335,"subtasks":[{"desc":"wandb-job.json","runtime_seconds":0.115065374,"progress":"874B/874B"}]}],"total_operations":1}}
+{"time":"2024-11-25T19:55:15.927686568+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T19:55:17.191298267+01:00","level":"INFO","msg":"stream: closing","id":"6nascyca"}
+{"time":"2024-11-25T19:55:17.19136022+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6nascyca"}}
+{"time":"2024-11-25T19:55:17.191590905+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6nascyca"}}
+{"time":"2024-11-25T19:55:17.191647809+01:00","level":"INFO","msg":"sender: closed","stream_id":"6nascyca"}
+{"time":"2024-11-25T19:55:17.192080451+01:00","level":"INFO","msg":"stream: closed","id":"6nascyca"}

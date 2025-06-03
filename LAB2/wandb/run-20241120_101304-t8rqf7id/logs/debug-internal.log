@@ -1,0 +1,21 @@
+{"time":"2024-11-20T10:13:04.269499733+01:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-20T10:13:04.26953263+01:00","level":"INFO","msg":"created symlink","path":"/home/martina/codi2/3rd year/Paradigms_ML/practical LAB 2/wandb/run-20241120_101304-t8rqf7id/logs/debug-core.log"}
+{"time":"2024-11-20T10:13:04.484601981+01:00","level":"INFO","msg":"created new stream","id":"t8rqf7id"}
+{"time":"2024-11-20T10:13:04.484662398+01:00","level":"INFO","msg":"stream: started","id":"t8rqf7id"}
+{"time":"2024-11-20T10:13:04.484997161+01:00","level":"INFO","msg":"sender: started","stream_id":"t8rqf7id"}
+{"time":"2024-11-20T10:13:04.484996888+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"t8rqf7id"}}
+{"time":"2024-11-20T10:13:04.484995281+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"t8rqf7id"}}
+{"time":"2024-11-20T10:13:04.89935464+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T10:13:05.068904662+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T10:13:05.078976709+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T10:50:09.1225078+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-20T10:50:12.938919287+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-20T10:50:12.948413833+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T10:50:12.950898171+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T10:50:13.770635721+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-20T10:50:13.949398526+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.178224932}],"total_operations":1}}
+{"time":"2024-11-20T10:50:15.045558968+01:00","level":"INFO","msg":"stream: closing","id":"t8rqf7id"}
+{"time":"2024-11-20T10:50:15.045603261+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"t8rqf7id"}}
+{"time":"2024-11-20T10:50:15.045730188+01:00","level":"INFO","msg":"sender: closed","stream_id":"t8rqf7id"}
+{"time":"2024-11-20T10:50:15.04571274+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"t8rqf7id"}}
+{"time":"2024-11-20T10:50:15.045839614+01:00","level":"INFO","msg":"stream: closed","id":"t8rqf7id"}
